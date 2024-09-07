@@ -8,8 +8,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "en-US",
-  title: "Tiu Mo's Blog",
-  description: "Tiu Mo's Blog",
+  title: "OpenVisualLab",
+  description: "(Trustworthy & Embodied AI)",
 
   theme,
 
