@@ -3,8 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: Home
-heroImage: assets/icon/DA.svg
-heroText: Tiu Mo
+heroImage: assets/icon/logo.webp
+heroText: Open Visual Lab
 tagline: Only with a mind free from distractions can one see the Way.
 bgImage: assets/images/2307-min.jpg
 heroFullScreen: true

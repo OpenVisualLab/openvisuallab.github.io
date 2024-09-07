@@ -11,7 +11,7 @@ titles:
   - bbb
   - ccc
   - 莫梦竟成
-welcome: 👋 Hi There, I'm
+welcome: 👋 Hi There, We're
 content: true
 footer: false
 dir:

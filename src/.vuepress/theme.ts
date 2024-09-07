@@ -4,18 +4,18 @@ import sidebar from "./sidebar.js";
 import { MR_HOPE_AVATAR } from "./logo.js";
 
 export default hopeTheme({
-  hostname: "https://2-mo.github.io",
+  hostname: "https://openvisuallab.github.io",
 
   author: {
-    name: "Tiu Mo",
-    url: "https://2-mo.github.io",
+    name: "OpenVisualLab",
+    url: "https://openvisuallab.github.io",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "assets/icon/3806.JPG",
+  logo: "assets/icon/logo.webp",
 
-  repo: "https://github.com/2-mo/2-mo.github.io",
+  repo: "https://github.com/OpenVisualLab/openvisuallab.github.io",
 
   docsDir: "src",
 
@@ -31,7 +31,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
+      "/demo/encrypt.html": ["1805+"],
     },
   },
   blog: {
