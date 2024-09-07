@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://2-mo.github.io/sitemap.xml
+Sitemap: https://openvisuallab.github.io/sitemap.xml
