@@ -1,0 +1,49 @@
+```bash
+$ pip install ipython
+
+$ cd ～/.conda/envs/'YOUENVNAME'/lib/python3.10/site-packages
+$ vim sitecustomize.py
+```
+
+添加
+
+```python
+import sys
+from IPython.core.ultratb import ColorTB
+ 
+sys.excepthook = ColorTB()
+
+# 如果没有效果，可以先在py文件头部import sitecustomize，重新运行python文件即可。
+```
+
+
+
+配色网站 [Base16 Terminal Colors for Visual Studio Code (glitchbone.github.io)](https://glitchbone.github.io/vscode-base16-term/#/gruvbox-dark-hard)
+
+编辑 settings.json （vscode 的配置文件）
+
+```yaml
+    "workbench.colorCustomizations": {
+        "terminal.background": "#1D2021",
+        "terminal.foreground": "#D5C4A1",
+        "terminalCursor.background": "#1D2021",
+        "terminalCursor.foreground": "#D5C4A1",
+        "terminal.ansiBlack": "#1D2021",
+        "terminal.ansiBlue": "#83A598",
+        "terminal.ansiBrightBlack": "#665C54",
+        "terminal.ansiBrightBlue": "#83A598",
+        "terminal.ansiBrightCyan": "#8EC07C",
+        "terminal.ansiBrightGreen": "#B8BB26",
+        "terminal.ansiBrightMagenta": "#D3869B",
+        "terminal.ansiBrightRed": "#FB4934",
+        "terminal.ansiBrightWhite": "#FBF1C7",
+        "terminal.ansiBrightYellow": "#FABD2F",
+        "terminal.ansiCyan": "#8EC07C",
+        "terminal.ansiGreen": "#B8BB26",
+        "terminal.ansiMagenta": "#D3869B",
+        "terminal.ansiRed": "#FB4934",
+        "terminal.ansiWhite": "#D5C4A1",
+        "terminal.ansiYellow": "#FABD2F"
+    },
+```
+

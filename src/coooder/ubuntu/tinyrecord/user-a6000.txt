@@ -1,0 +1,18 @@
+# INPUT: sudo sh createuser.sh "USERNAME" "PASSSWORD" 
+#!/bin/bash
+
+useradd  -d /userHOME/$1 -m -s /bin/bash -g anaconda $1
+echo "$1:$2" | sudo chpasswd
+
+cp /home/leng/.bashrc /userHOME/$1/.bashrc 
+chown $1:anaconda /userHome/$1/.bashrc
+
+echo "envs_dirs:
+  - /userHome/$1/.conda/envs
+pkgs_dirs:
+  - /userHome/$1/.conda/pkgs" > /userHome/$1/.condarc
+chown $1:anaconda /userHome/$1/.condarc
+
+cp -avx /home/leng/.pip /userHome/$1/.pip
+chown $1:anaconda -R /userhome/$1/.pip
+
