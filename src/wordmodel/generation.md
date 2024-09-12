@@ -6,16 +6,15 @@ A curated list of world model for autonmous driving. Keep updated.
 ## 📌 Introduction
 ## ✧ 世界模型用于自动驾驶场景生成相关文献整理
 ## ➢ 论文汇总  
-## ➢ 论文汇总  
 
-[1] <https://github.com/fjchange/awesome-video-anomaly-detection> 该 repo 内有目前 视频异常检测（VAD） 方向的优秀论文汇总，包括基本分类、 常用数据库下载、 开源code、 综述  
-[2] <https://github.com/shot1107/anomaly_detection_papers>   该repo 内有异常检测每年顶会的论文，包括但不限于视频异常检测，可参考借鉴。
+[1] <https://github.com/GigaAI-research/General-World-Models-Survey> 该 repo 内有目前世界模型方向的优秀论文汇总，包括基本分类：视频生成、自动驾驶和自主代理。其中自动驾驶分成端到端、以及2D、3D神经模拟器方法。世界模型的文献、 开源code、 综述。  
+[2] <https://github.com/HaoranZhuExplorer/World-Models-Autonomous-Driving-Latest-Survey>   该repo 内以‘时间’为顺序精选相关世界自动驾驶模型。且并持续更新，包括一些挑战、相关视频，包括机器人领域的世界模型使用（大多数为模仿学习强化学习方向）可参考借鉴。
 
-## ➢ 认识异常检测  
+## ➢ 认识世界模型 
 
-### 1. 简单介绍（从异常行为检测--> 视频异常行为检测）  
+### 1. 简单介绍（从世界模型--> 自动驾驶世界模型用于场景生成）  
 
-  [1]  异常行为检测简介： <https://mp.weixin.qq.com/s/UmT0DjFqRPsjv2m28ySvdw>
+  [1]  世界模型简介： <https://mp.weixin.qq.com/s/UmT0DjFqRPsjv2m28ySvdw>
   [2]  基于深度学习的异常行为检测介绍：<https://mp.weixin.qq.com/s/Aghbz4m1eWFCNGgEy8q6Cg>  
   [3]  基于深度学习的异常行为检测研究现状： <https://mp.weixin.qq.com/s/MwpELRlC1cuDgqn4staAzA>  
   [4]  基于深度学习的视频异常行为事件检测简介: <https://mp.weixin.qq.com/s/i3Xw2-ivARnF7rBSFtxugw>  
