@@ -25,7 +25,7 @@ A curated list of world model for autonmous driving. Keep updated.
   
 ### 2.论文综述  
 
-* [1]  Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond，2024年5月 arXiv 极佳科技 （比较全面，该综述通过 260 余篇文献，对世界模型在视频生成、自动驾驶、智能体、通用机器人等领域的研究和应用进行了详尽的分析和讨论。另外，该综述还审视了当前世界模型的挑战和局限性，并展望了它们未来的发展方向。）**
+* [1]  Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond， __`arxiv`__ [Paper](https://arxiv.org/abs/2403.02622)2024年5月 arXiv 极佳科技 （比较全面，该综述通过 260 余篇文献，对世界模型在视频生成、自动驾驶、智能体、通用机器人等领域的研究和应用进行了详尽的分析和讨论。另外，该综述还审视了当前世界模型的挑战和局限性，并展望了它们未来的发展方向。）**
  * [2] World Models for Autonomous Driving: An Initial Survey，2024 IEEE TIV,澳门大学，夏威夷大学。（画风有趣，对自动驾驶世界模型的现状和未来进展进行了初步回顾，涵盖了它们的理论基础、实际应用以及旨在克服现有局限性的正在进行的研究工作。）**
   * [3]2024-World Models for Autonomous Driving: An Initial Survey __`arxiv`__ [Paper](https://arxiv.org/abs/2403.02622)
   * [4]2024-Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big
