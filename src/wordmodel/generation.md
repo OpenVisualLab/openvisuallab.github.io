@@ -17,8 +17,13 @@ A curated list of world model for autonmous driving. Keep updated.
   [1]  世界模型简介：<https://mp.weixin.qq.com/s/UmT0DjFqRPsjv2m28ySvdw>世界模型是一种人工智能技术，旨在通过整合多种感知信息，如视觉、听觉和语言，利用机器学习和深度学习等方法来理解和预测现实世界。它包括感知模块、表征学习、动力学模型和生成模型，用于构建环境的内部表示，不仅能反映当前状态，还能预测未来变化。这种模型在强化学习、自动驾驶、游戏开发和机器人学等领域有广泛应用。Yann LeCun提出的这一概念，强调通过自监督学习让AI像人一样理解世界，形成内部的心理表征，以期实现通用人工智能。Meta的I-JEPA模型是基于这一愿景的实现，它通过分析和补全图像展示了对世界背景知识的应用。 
 
   [2]  影响较大的早期文章：2018年Jurgen在NeurIPS 以循环世界模型促进策略演变“Recurrent World Models Facilitate Policy Evolution”的title发表：链接: <https://arxiv.org/abs/1803.10122> 示例: <https://worldmodels.github.io/>  
-  [3]  世界模型在自动驾驶领域的应用： <https://www.bilibili.com/read/cv34465959/> 
-  [4]  世界模型用于生成: <https://mp.weixin.qq.com/s/i3Xw2-ivARnF7rBSFtxugw>  
+  
+  [3]  世界模型在自动驾驶领域的应用
+显而易见生成式的World Model可以被用来当作一种仿真工具来生成仿真数据，特别是极为少见的Corner Case的数据。
+然而World Model更有潜力的应用方向我认为是World Model可能会成为像GPT一样的自动驾驶领域的基础模型，而其他自动驾驶具体任务都会围绕这个基础模型进行研发构建。： <https://www.bilibili.com/read/cv34465959/> 
+  
+  [4]  世界模型用于生成: <https://mp.weixin.qq.com/s/i3Xw2-ivARnF7rBSFtxugw> 
+  
   [5]  世界模型用于仿真平台: <https://mp.weixin.qq.com/s/Dxsc3oCuO0wYkeFubMfSNw>  
   
 ### 2.论文综述  
