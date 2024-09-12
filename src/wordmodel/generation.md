@@ -20,17 +20,29 @@ A curated list of world model for autonmous driving. Keep updated.
   
   [3]  世界模型在自动驾驶领域的应用： <https://www.bilibili.com/read/cv34465959/> 
   
-  [4]  世界模型用于自动驾驶场景生成以及仿真平台: <https://mp.weixin.qq.com/s/i3Xw2-ivARnF7rBSFtxugw> 
+  [4]  世界模型用于自动驾驶场景生成以及仿真平台: <https://blog.csdn.net/CV_Autobot/article/details/134002647> 
   
   
 ### 2.论文综述  
 
-  [1]  邬开俊等. 视频异常检测技术研究进展[J]. 计算机科学与探索, 2022   （中文综述，但没有那么全面，可以有一个初步了解）
-  [2]  Bharathkumar Ramachandra et al. A survey of single-scene video anomaly detection  (TPAMI 2020)  
+* [1]  Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond，2024年5月 arXiv 极佳科技 （比较全面，该综述通过 260 余篇文献，对世界模型在视频生成、自动驾驶、智能体、通用机器人等领域的研究和应用进行了详尽的分析和讨论。另外，该综述还审视了当前世界模型的挑战和局限性，并展望了它们未来的发展方向。）**
+ * [2] World Models for Autonomous Driving: An Initial Survey，2024 IEEE TIV,澳门大学，夏威夷大学。（画风有趣，对自动驾驶世界模型的现状和未来进展进行了初步回顾，涵盖了它们的理论基础、实际应用以及旨在克服现有局限性的正在进行的研究工作。）**
+  * [3]2024-World Models for Autonomous Driving: An Initial Survey __`arxiv`__ [Paper](https://arxiv.org/abs/2403.02622)
+  * [4]2024-Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big
+  Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.12888.pdf)
+  * [5]2024-Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.08045.pdf)  
+
+## 3.挑战赛 Workshops/Challenges
+* 2024-1X World Model Challenge  __`Challenges`__ [Link](https://github.com/1x-technologies/1xgpt)
+* 2024-CVPR Workshop, Foundation Models for Autonomous Systems, Challenges, Track 4: Predictive World Model __`Challenges`__ [Link](https://opendrivelab.com/challenge2024/)
+
+## Tutorials/Talks/
+* 2023 __`from Wayve`__; [Video](https://www.youtube.com/watch?v=lNOs08byOhw)
+* 2022-Neural World Models for Autonomous Driving [Video](https://www.youtube.com/watch?v=wMvYjiv6EpY)
 
 ## ➢ 优秀团队 / 学术大佬
 
-### ■  高盛华  上海科技大学（视觉与数据智能中心）  
+### ■  上海AILab（视觉与数据智能中心）  
 
 [1]  A Revisit of Sparse Coding Based Anomaly Detection in Stacked RNN Framework **(ICCV 2017)** -->proposed Shanghaitech dataset.  
 [2]  Future Frame Prediction for Anomaly Detection – A New Baseline **(CVPR 2018)**
@@ -44,7 +56,7 @@ A curated list of world model for autonmous driving. Keep updated.
 [4]  A Background-Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video **(TPAMI 2021)**  
 [5]  UBnormal New Benchmark for Supervised Open-Set Video Anomaly Detection **(CVPR 2022)**
 [6]  Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection **(CVPR 2022)**
-
+蔚来车企：https://www.qbitai.com/2024/07/172025.html
 ## ➢ 经典论文：（推荐加“👍”）  
 
 ### ■ Unsupervised VAD  
