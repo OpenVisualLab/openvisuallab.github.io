@@ -4,7 +4,45 @@ title: 世界模型用于视频生成
 # World-Models-Autonomous-Driving-Latest-Survey
 A curated list of world model for autonmous driving. Keep updated.
 ## 📌 Introduction
+## ✧ 世界模型用于自动驾驶场景生成相关文献整理
+## ➢ 论文汇总  
 
+[1] <https://github.com/fjchange/awesome-video-anomaly-detection> 该 repo 内有目前 视频异常检测（VAD） 方向的优秀论文汇总，包括基本分类、 常用数据库下载、 开源code、 综述  
+[2] <https://github.com/shot1107/anomaly_detection_papers>   该repo 内有异常检测每年顶会的论文，包括但不限于视频异常检测，可参考借鉴。
+
+## ➢ 认识异常检测  
+
+### 1. 简单介绍（从异常行为检测--> 视频异常行为检测）  
+
+  [1]  异常行为检测简介： <https://mp.weixin.qq.com/s/UmT0DjFqRPsjv2m28ySvdw>
+  [2]  基于深度学习的异常行为检测介绍：<https://mp.weixin.qq.com/s/Aghbz4m1eWFCNGgEy8q6Cg>  
+  [3]  基于深度学习的异常行为检测研究现状： <https://mp.weixin.qq.com/s/MwpELRlC1cuDgqn4staAzA>  
+  [4]  基于深度学习的视频异常行为事件检测简介: <https://mp.weixin.qq.com/s/i3Xw2-ivARnF7rBSFtxugw>  
+  [5]  基于视频的异常行为检测算法介绍: <https://mp.weixin.qq.com/s/Dxsc3oCuO0wYkeFubMfSNw>  
+  
+### 2.论文综述  
+
+  [1]  邬开俊等. 视频异常检测技术研究进展[J]. 计算机科学与探索, 2022   （中文综述，但没有那么全面，可以有一个初步了解）
+  [2]  Bharathkumar Ramachandra et al. A survey of single-scene video anomaly detection  (TPAMI 2020)  
+
+## ➢ 优秀团队 / 学术大佬
+
+### ■  高盛华  上海科技大学（视觉与数据智能中心）  
+
+[1]  A Revisit of Sparse Coding Based Anomaly Detection in Stacked RNN Framework **(ICCV 2017)** -->proposed Shanghaitech dataset.  
+[2]  Future Frame Prediction for Anomaly Detection – A New Baseline **(CVPR 2018)**
+[3]  Future Frame Prediction for Anomaly Detection  **(TPAMI 2022)**
+
+### ■  Radu Ionescu  SecurifAI/University of Bucharest
+
+[1]  Detecting abnormal events in video using Narrowed Normality Clusters **(WACV 2019)**  
+[2]  Object-centric Auto-encoders and Dummy Anomalies for Abnormal Event Detection in Video **(CVPR 2019)**  
+[3]  Anomaly Detection in Video via Self-Supervised and Multi-Task Learning **(CVPR 2021)**  
+[4]  A Background-Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video **(TPAMI 2021)**  
+[5]  UBnormal New Benchmark for Supervised Open-Set Video Anomaly Detection **(CVPR 2022)**
+[6]  Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection **(CVPR 2022)**
+
+## ➢ 经典论文：（推荐加“👍”）
 In our report, we present a holistic examination of recent advancements in world model research, encompassing profound philosophical perspectives and detailed discussions. Our analysis delves deeply into the literature surrounding world models for **video generation**, **autonomous driving**, and **autonomous agents**, uncovering their applications in media production, artistic expression, end-to-end driving, games, and robots. We assess the existing challenges and limitations of world models and delve into prospective avenues for future research, with the intention of steering and igniting further progress in world models.
 
 ![Framework](./asset/Framework.png "Framework of general world models")
