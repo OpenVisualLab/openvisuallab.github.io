@@ -99,12 +99,7 @@ import MyCollaborator from "@MyCollaborator";
 
 ### 科研论文
 
-[1] Jiaxu Leng, **Mengjingcheng Mo**, Yinghua Zhou, Chenqiang Gao, Weisheng Li and Xinbo Gao*. Pareto Refocusing for Drone-view Object Detection[J].  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2022. (SCI一区TOP，视频技术领域顶刊) 
 
-Jiaxu Leng, Taiyue Chen, Xinbo Gao*, Mengjingcheng Mo, Yongtao Yu and Yan Zhang*. Sampling-invariant fully metric learning for few-shot object detection[J]. Neurocomputing, 2022, 511:54-66. (SCI二区TOP)
-
-高新波, 莫梦竟成, 汪海涛, 冷佳旭*. 小目标检测研究进展[J]. 数据采集与处理,2021,36(3):391-417.
-冷佳旭, 莫梦竟成, 周应华, 叶永明, 高新波*. 无人机视角下的目标检测研究进展[J]. 中国图象图形学报, 2023.
 
 ### 比赛
 
