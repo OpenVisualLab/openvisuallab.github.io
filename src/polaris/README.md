@@ -10,9 +10,9 @@ dir:
 科研常用网站
 
 ## 搜索引擎
-https://felo.ai/search
+[FELO](https://felo.ai/search) &emsp;
 
-https://github.com/cvpr-org/author-kit/releases
+[CVPR模版](https://github.com/cvpr-org/author-kit/releases) &emsp;
 
 ## ⏰ DEADLINE
 
