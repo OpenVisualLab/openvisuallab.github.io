@@ -1,6 +1,7 @@
----
-### TITLE: 世界模型用于视频生成 
----
+<p align="center">
+  <img src="/src/worldmodel/world_model.png" width="30%" />
+</p>
+
 # World-Models-Autonomous-Driving-Latest-Survey
 A curated list of world model for autonmous driving. Keep updated.
 ## 📌 Introduction
@@ -64,7 +65,9 @@ A curated list of world model for autonmous driving. Keep updated.
 
 ## ➢ 经典论文：（推荐加“👍”）  
 
-
+<p align="center">
+  <img src="/src/worldmodel/wm_ad.png" width="80%" />
+</p>
 
 #### World Models are adept at representing an agent's spatio-temporal knowledge about its environment through the prediction of future changes. 
 
