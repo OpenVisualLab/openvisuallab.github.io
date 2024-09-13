@@ -137,7 +137,7 @@ A curated list of world model for autonmous driving. Keep updated.
 *  ○ 可控条件生成学习平台--DriveArena[[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
 
 ## ■  ➢端到端世界模型--> 
-+ 与occ结合的：occworld、Drive-occword、
++ 与occ结合的：occworld、Drive-occword、OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving、Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving、OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving
 + GenAD
 + drive-WM
 
