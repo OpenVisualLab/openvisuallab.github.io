@@ -127,17 +127,18 @@ A curated list of world model for autonmous driving. Keep updated.
 * ○ 可控条件生成-->magicdrive <https://github.com/cure-lab/MagicDrive>   [[paper](https://arxiv.org/abs/2310.02601)] [[Code](https://github.com/cure-lab/MagicDrive)]可作为baseline. 从几何标注中合成的数据可以帮助下游任务,如2D目标检测。因此,本文探讨了text-to-image (T2I)扩散模型在生成街景图像并惠及下游3D感知模型方面的潜力。 
 * ○ 可控条件生成-->magicdrive3D  [[paper](https://arxiv.org/abs/2405.14475)] [[Code](https://github.com/flymin/MagicDrive3D)]
 * ○ 可控条件生成-->panacea <https://zhuanlan.zhihu.com/p/684249231>用于生成多视角且可控的驾驶场景视频，能够合成无限数量的多样化、带标注的样本，这对于自动驾驶的进步有至关重要的意义。 Panacea解决了两个关键挑战：“一致性”和“可控性”。一致性确保时间和视角的一致性，而可控性确保生成的内容与相应的标注对齐。
-* ○ 可控条件生成-->drive-WM [[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
-* ○ 可控条件生成-->Geodiffusion [[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
-* ○ 可控条件生成-->Detdiffusion [[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
-* ○ 可控条件生成-->BevControl [[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
-* ○ 可控条件生成-->BevControl [[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
-*  ○ 可控条件生成--PerLDiff [[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
-*  ○ 可控条件生成学习平台--CarDreamer[[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
-*  ○ 可控条件生成学习平台--DriveArena[[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
+* ○ 可控条件生成-->drive-WM hub.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角[[主页](https://drive-wm.git分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
+* ○ 可控条件生成-->Geodiffusion 
+* ○ -->Detdiffusion
+* ○ 可控条件生成-->BevControl
+* ○ 可控条件生成-->BevControl
+*  ○ 可控条件生成--PerLDiff 
+*  ○ 可控条件生成学习平台--CarDreamer
+*  ○ 可控条件生成学习平台--DriveArena
 
+## ■  ➢occ世界模型--> 
++ 与occ结合的：occworld、Drive-occword、OccLLaMA、Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving、OccSora
 ## ■  ➢端到端世界模型--> 
-+ 与occ结合的：occworld、Drive-occword、OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving、Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving、OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving
 + GenAD
 + drive-WM
 
