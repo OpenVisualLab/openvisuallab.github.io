@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="/src/worldmodel/world_model.png" width="30%" />
-</p>
+
 
 # World-Models-Autonomous-Driving-Latest-Survey
 A curated list of world model for autonmous driving. Keep updated.
 ## 📌 Introduction
+
 ## ✧ 世界模型用于自动驾驶场景生成相关文献整理
 ## ➢ 论文汇总  
 
@@ -19,6 +18,10 @@ A curated list of world model for autonmous driving. Keep updated.
 [5] [Awesome-Papers-World-Models-Autonomous-Driving](https://github.com/chaytonmin/Awesome-Papers-World-Models-Autonomous-Driving).
 
 ## ➢ 认识世界模型 
+
+<p align="center">
+  <img src="/src/worldmodel/world_model.png" width="30%" />
+</p>
 
 ### 1. 简单介绍（从世界模型--> 自动驾驶世界模型用于场景生成）  
 
@@ -65,20 +68,22 @@ A curated list of world model for autonmous driving. Keep updated.
 
 ## ➢ 经典论文：（推荐加“👍”）  
 
+#### + World Models are adept at representing an agent's spatio-temporal knowledge about its environment through the prediction of future changes. 
+
+#### + There are two main types of world models in Autonomous Driving aimed at reducing driving uncertainty, i.e., World Model as Neural Driving Simulator and World Model for End-to-end Driving. 
+
+####  +  In the real environment, methods like GAIA-1 and Copilot4D involve utilizing generative models to construct neural simulators that produce 2D or 3D future scenes to enhance predictive capabilities. 
+
+####  + In the simulation environment, methods such as MILE and TrafficBots are based on reinforcement learning, enhancing their capacity for decision-making and future prediction, thereby paving the way to end-to-end autonomous driving.
+
+
 <p align="center">
   <img src="/src/worldmodel/wm_ad.png" width="80%" />
 </p>
 
-#### World Models are adept at representing an agent's spatio-temporal knowledge about its environment through the prediction of future changes. 
 
-#### There are two main types of world models in Autonomous Driving aimed at reducing driving uncertainty, i.e., World Model as Neural Driving Simulator and World Model for End-to-end Driving. 
-
-#### In the real environment, methods like GAIA-1 and Copilot4D involve utilizing generative models to construct neural simulators that produce 2D or 3D future scenes to enhance predictive capabilities. 
-
-#### In the simulation environment, methods such as MILE and TrafficBots are based on reinforcement learning, enhancing their capacity for decision-making and future prediction, thereby paving the way to end-to-end autonomous driving.
-
-### Neural Driving Simulator based on World Models
-#### 2D Scene Generation
+###  ■ Neural Driving Simulator based on World Models
+####  ■ 2D Scene Generation
 + 👍(2023 Arxiv) GAIA-1: A generative world model for autonomous driving [[Paper](https://arxiv.org/abs/2309.17080)][[Blog](https://wayve.ai/thinking/scaling-gaia-1/)] (Wayve)
 + (2023 CVPR 2023 workshop) [[Video](https://www.youtube.com/watch?v=6x-Xb_uT7ts)] (Tesla)
 + 👍(2023 Arxiv) DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving [[Paper](https://drivedreamer.github.io/)][[Code](https://github.com/JeffWang987/DriveDreamer)] (GigaAI)
@@ -91,40 +96,54 @@ A curated list of world model for autonmous driving. Keep updated.
 + (2024 CVPR) GenAD: Generalized Predictive Model for Autonomous Driving [[Paper](https://arxiv.org/abs/2403.09630)][[Code](https://github.com/OpenDriveLab/DriveAGI?tab=readme-ov-file)] (Shanghai AI Lab)
 + (2024 Arxiv) SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control [[Paper](https://subjectdrive.github.io/)] (MEGVII)
 
-#### 3D Scene Generation
+####  ■ 3D Scene Generation
 + 👍(2024 ICLR) Copilot4D:Learning unsupervised world models for autonomous driving via discrete diffusion [[Paper](https://arxiv.org/abs/2311.01017)] (Waabi)
 + (2023 Arxiv) OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving [[Paper](https://arxiv.org/abs/2311.16038)][[Code](https://github.com/wzzheng/OccWorld)] (THU)
 + (2023 Arxiv) MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations [[Paper](https://arxiv.org/abs/2311.11762)] (KIT)
 + (2024 Arxiv) LidarDM: Generative LiDAR Simulation in a Generated World [[Paper](https://www.zyrianov.org/lidardm/)][[Code](https://github.com/vzyrianov/lidardm)] (MIT)
   
-#### 4D Pre-training for Autonomous Driving
+####  ■ 4D Pre-training for Autonomous Driving
 + (2023 Arxiv) UniWorld: Autonomous Driving Pre-training via World Models [[Paper](https://arxiv.org/abs/2308.07234)] (PKU) 
 + (2024 CVPR) ViDAR: Visual Point Cloud Forecasting enables Scalable Autonomous Driving [[Paper](https://arxiv.org/abs/2312.17655)][[Code](https://github.com/OpenDriveLab/ViDAR)] (Shanghai AI Lab)
 + 👍(2024 CVPR) DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving [[Paper](XXX)] (PKU)
   
-### End-to-end Driving based on World Models
+###  ■ End-to-end Driving based on World Models
 + 👍(2022 NeurIPS) Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9316769afaaeeaad42a9e3633b14e801-Abstract-Conference.html)] (SJTU)
 + 👍(2022 NeurIPS) MILE: Model-Based Imitation Learning for Urban Driving [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/827cb489449ea216e4a257c47e407d18-Abstract-Conference.html)][[Code](https://github.com/wayveai/mile)] (Wayve)
 + (2022 NeurIPS Deep RL Workshop) SEM2: Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model [[Paper](https://arxiv.org/abs/2210.04017)] (HIT & THU)
 + (2023 ICRA) TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction [[Paper](https://ieeexplore.ieee.org/abstract/document/10161243)] (ETH Zurich)
 + (2024 Arxiv) Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2) [[Paper](https://arxiv.org/abs/2402.16720)] (SJTU)
 
-### Others
+###  ■ Others
 + (1989) Using Occupancy Grids for Mobile Robot Perception and Navigation [[paper](http://www.sci.brooklyn.cuny.edu/~parsons/courses/3415-fall-2011/papers/elfes.pdf)]
 <p align="center">
   <img src="/src/worldmodel/world_model_ad.png" width="80%" />
 </p>
-## ➢ 经典项目  
-
- ○ MNAD --> <https://github.com/cvlab-yonsei/MNAD>  可作为baseline.  
-
-## ➢ 发现的新的有意思的研究方向--> 
-生成式的World Model可以被用来当作一种仿真工具来生成仿真数据，特别是极为少见的Corner Case的数据。
+ 
+## ■  ➢ 发现的新的有意思的研究方向--> 
+生成式的World Model可以被用来当作一种仿真工具来生成仿真数据，特别是极为少见的Corner Case的数据。特别是基于LLM的可控条件生成Corner Case，可以进行数据增广，解决真实数据且标注少的现存问题。
 然而World Model更有潜力的应用方向是World Model可能会成为像GPT一样的自动驾驶领域的基础模型，而其他自动驾驶具体任务都会围绕这个基础模型进行研发构建。
+## ■  ➢可控条件生成--> 
+* ○ 可控条件生成-->magicdrive <https://github.com/cure-lab/MagicDrive>   [[paper](https://arxiv.org/abs/2310.02601)] [[Code](https://github.com/cure-lab/MagicDrive)]可作为baseline. 从几何标注中合成的数据可以帮助下游任务,如2D目标检测。因此,本文探讨了text-to-image (T2I)扩散模型在生成街景图像并惠及下游3D感知模型方面的潜力。 
+* ○ 可控条件生成-->magicdrive3D  [[paper](https://arxiv.org/abs/2405.14475)] [[Code](https://github.com/flymin/MagicDrive3D)]
+* ○ 可控条件生成-->panacea <https://zhuanlan.zhihu.com/p/684249231>用于生成多视角且可控的驾驶场景视频，能够合成无限数量的多样化、带标注的样本，这对于自动驾驶的进步有至关重要的意义。 Panacea解决了两个关键挑战：“一致性”和“可控性”。一致性确保时间和视角的一致性，而可控性确保生成的内容与相应的标注对齐。
+* ○ 可控条件生成-->drive-WM [[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
+* ○ 可控条件生成-->Geodiffusion [[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
+* ○ 可控条件生成-->Detdiffusion [[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
+* ○ 可控条件生成-->BevControl [[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
+* ○ 可控条件生成-->BevControl [[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
+*  ○ 可控条件生成--PerLDiff [[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
+*  ○ 可控条件生成学习平台--CarDreamer[[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
+*  ○ 可控条件生成学习平台--DriveArena[[主页](https://drive-wm.github.io/)]这是第一个与现有端到端规划模型兼容的自动驾驶世界模型。通过由视角分解促进的联合空间-时间建模，Drive-WM在驾驶场景中生成高保真度的多视图视频。
+
+## ■  ➢端到端世界模型--> 
++ 与occ结合的：occworld、Drive-occword、
++ GenAD
++ drive-WM
 
 ### 1. DEFINITION
 
-The aim of this TASK is to detect and automatically generate high-level explanations of anomalous events in video. Understanding the cause of an anomalous event is crucialas the required response is dependant on its nature andseverity. --> Anomaly Detection & Anoamly Explanation
+每篇文章的创新点从单一多视角到环视视角、从单一输入到多模态输入来提高生成质量。需解决时空不一致性和生成场景连续性。
 
 ### 2. RELATED WORK
 
