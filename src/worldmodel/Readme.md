@@ -111,7 +111,9 @@ A curated list of world model for autonmous driving. Keep updated.
 
 ### Others
 + (1989) Using Occupancy Grids for Mobile Robot Perception and Navigation [[paper](http://www.sci.brooklyn.cuny.edu/~parsons/courses/3415-fall-2011/papers/elfes.pdf)]
-
+<p align="center">
+  <img src="/src/worldmodel/world_model_ad.png" width="80%" />
+</p>
 ## ➢ 经典项目  
 
  ○ MNAD --> <https://github.com/cvlab-yonsei/MNAD>  可作为baseline.  
