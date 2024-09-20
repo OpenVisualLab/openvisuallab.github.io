@@ -126,3 +126,11 @@ cat ~/.ssh/id_rsa.pub
 
 
 ### 
+
+## 其他
+
+[远程连接服务器](https://2-mo.github.io/coooder/ubuntu/base/1.connect_to_server.html)
+
+[conda 常用命令](https://2-mo.github.io/coooder/ubuntu/base/2.run_code.html)
+
+[ubuntu常用命令](https://2-mo.github.io/coooder/ubuntu/base/3.in_common_use.html)
