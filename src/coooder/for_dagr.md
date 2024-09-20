@@ -1,10 +1,13 @@
 ---
-titile: 简单记录📝
-dir:
-  text: note4dagr
+title: 简单记录📝
 ---
 
 Low Latency Automotive Vision with Event Cameras
+[paper](https://www.nature.com/articles/s41586-024-07409-w)
+[coda](https://github.com/uzh-rpg/dagr)
+[知乎](https://zhuanlan.zhihu.com/p/710219004)
+[微信公众号](https://mp.weixin.qq.com/s/rVzG9A55KlbbFtNtW9CTFg)
+
 
 ## 安装系统及基础软件
 
