@@ -1,6 +1,7 @@
 
 
 # World-Models-Autonomous-Driving-Latest-Survey
+
 A curated list of world model for autonmous driving. Keep updated.
 ## 📌 Introduction
 
@@ -19,9 +20,11 @@ A curated list of world model for autonmous driving. Keep updated.
 
 ## ➢ 认识世界模型 
 
-<p align="center">
-  <img src="/src/worldmodel/world_model.png" width="30%" />
+<p style="text-align: center;">
+  <img src="/imgs/archiver/world_model/world_model.png" width="30%" />
 </p>
+
+<!-- ![world model](/imgs/archiver/world_model/world_model.png) -->
 
 ### 1. 简单介绍（从世界模型--> 自动驾驶世界模型用于场景生成）  
 
@@ -78,10 +81,10 @@ A curated list of world model for autonmous driving. Keep updated.
 ####  + In the simulation environment, methods such as MILE and TrafficBots are based on reinforcement learning, enhancing their capacity for decision-making and future prediction, thereby paving the way to end-to-end autonomous driving.
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="/src/worldmodel/wm_ad.png" width="80%" />
-</p>
-
+</p> -->
+![world model in AD](/imgs/archiver/world_model/wm_ad.png)
 
 ###  ■ Neural Driving Simulator based on World Models
 ####  ■ 2D Scene Generation
@@ -117,9 +120,13 @@ A curated list of world model for autonmous driving. Keep updated.
 
 ###  ■ Others
 + (1989) Using Occupancy Grids for Mobile Robot Perception and Navigation [[paper](http://www.sci.brooklyn.cuny.edu/~parsons/courses/3415-fall-2011/papers/elfes.pdf)]
-<p align="center">
-  <img src="/src/worldmodel/world_model_ad.png" width="80%" />
-</p>
+
+
+<!-- <p align="center">
+  <img src="/imgs/archiver/world_model/world_model_ad.png" width="80%" />
+</p> -->
+
+![world_model_ad](/imgs/archiver/world_model/world_model_ad.png)
 
 ###  ■ 按时间顺序更新
 ## Papers
