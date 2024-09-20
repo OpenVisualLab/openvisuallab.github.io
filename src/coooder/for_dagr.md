@@ -1,5 +1,7 @@
 ---
 titile: 简单记录📝
+dir:
+  text: note4dagr
 ---
 
 Low Latency Automotive Vision with Event Cameras
@@ -11,7 +13,8 @@ Low Latency Automotive Vision with Event Cameras
 ### 安装基础软件
 
 ```bash
-sudo apt install vim net-tools openssh-server
+sudo apt update
+sudo apt install vim net-tools openssh-server git tmux -y
 # net-tools 然后 ifconfig用来看IP地址
 # 安装完openssh-server就可以远程使用ssh来配置啦
 ```
@@ -80,7 +83,12 @@ custom_channels:
 
 #### 设置PyPi源
 
-> <https://mirror.tuna.tsinghua.edu.cn/help/pypi/>
+> <https://help.mirrors.cernet.edu.cn/pypi/>
+
+```bash
+python -m pip install --upgrade pip
+pip config set global.index-url https://mirrors.cernet.edu.cn/pypi/web/simple
+```
 
 #### 镜像源合集
 
@@ -96,10 +104,25 @@ custom_channels:
 
 按其`README.md`来, 下面只记录不同的地方
 
-mkl找不到版本，加 `-c conda-forge`
+
+### mkl找不到版本，加 `-c conda-forge`
 
 ```bash
 conda install -y setuptools==69.5.1 mkl==2024.0 pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=11.3 -c pytorch -c conda-forge 
 ```
 
 > <https://anaconda.org/conda-forge/mkl/files>
+
+### `git clone` Permission denied (publickey)
+
+```bash
+# 生成密钥
+ssh-keygen -t rsa -b 4096 -C "chs-ll"
+# 查看密钥
+cat ~/.ssh/id_rsa.pub
+```
+
+复制显示的内容到github个人账户的 [setting]->[SSH and GPG keys]->[New SSH key]
+
+
+### 
