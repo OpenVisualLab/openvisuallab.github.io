@@ -8,10 +8,9 @@ Low Latency Automotive Vision with Event Cameras
 [知乎](https://zhuanlan.zhihu.com/p/710219004)
 [微信公众号](https://mp.weixin.qq.com/s/rVzG9A55KlbbFtNtW9CTFg)
 
-
 ## 安装系统及基础软件
 
-> [参考链接🔗](https://2-mo.github.io/coooder/ubuntu/base/0.%E5%AE%89%E8%A3%85ubuntu%E7%B3%BB%E7%BB%9F.html)
+> [参考链接🔗](https://2-mo.github.io/coooder/ubuntu/base/0.%E5%AE%89%E8%A3%85ubuntu%E7%B3%BB%E7%BB%9F.html) (很久很久没更新，简单看看就行)
 
 ### 安装基础软件
 
@@ -33,12 +32,31 @@ sudo sh cuda_12.6.1_560.35.03_linux.run
 
 历史版本：<https://developer.nvidia.com/cuda-toolkit-archive>
 
-#### 写入`vim ~/.bashrc`, 使用`nvcc -V`查看版本
+[11.3.1](https://developer.nvidia.com/cuda-11-3-1-download-archive)
+
+```bash
+wget https://developer.download.nvidia.com/compute/cuda/11.3.1/local_installers/cuda_11.3.1_465.19.01_linux.run
+sudo sh cuda_11.3.1_465.19.01_linux.run
+```
+
+#### 写入`vim ~/.bashrc`
 
 ```bash
 export PATH=$PATH:/usr/local/cuda/bin
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64
 export LIBRARY_PATH=$LIBRARY_PATH:/usr/local/cuda/lib64 
+```
+
+#### 使用`nvcc -V`查看版本
+
+显示版本号表示正常，例如
+
+```bash
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2021 NVIDIA Corporation
+Built on Mon_May__3_19:15:13_PDT_2021
+Cuda compilation tools, release 11.3, V11.3.109
+Build cuda_11.3.r11.3/compiler.29920130_0
 ```
 
 #### 配置ubuntu源（建议在软件更新中使用GUI界面设置）
@@ -107,7 +125,6 @@ pip config set global.index-url https://mirrors.cernet.edu.cn/pypi/web/simple
 
 按其`README.md`来, 下面只记录不同的地方
 
-
 ### mkl找不到版本，加 `-c conda-forge`
 
 ```bash
@@ -127,8 +144,7 @@ cat ~/.ssh/id_rsa.pub
 
 复制显示的内容到github个人账户的 [setting]->[SSH and GPG keys]->[New SSH key]
 
-
-### 
+###
 
 ## 其他
 
