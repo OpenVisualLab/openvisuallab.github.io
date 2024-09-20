@@ -1,8 +1,9 @@
 ---
 author: 张明珠
+title: World Model
 ---
 
-# World-Models-Autonomous-Driving-Latest-Survey
+> World-Models-Autonomous-Driving-Latest-Survey
 
 A curated list of world model for autonmous driving. Keep updated.
 
