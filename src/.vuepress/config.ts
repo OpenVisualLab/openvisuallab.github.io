@@ -16,7 +16,8 @@ export default defineUserConfig({
   alias: {
     "@MyTeam": path.resolve(__dirname, "components/TeamSection.vue"),
     "@MyComponent": path.resolve(__dirname, "components/HelloWorld.vue"),
-    "@MyCollaborator": path.resolve(__dirname, "components/TeamMember.vue"),
+    "@MyAdvisor": path.resolve(__dirname, "components/TeamMember.vue"),
+    "@MyCollaborator": path.resolve(__dirname, "components/StudentTeamMember.vue"),
     "@MyBookmark": path.resolve(__dirname, "components/Bookmark.vue"),
   },
 
