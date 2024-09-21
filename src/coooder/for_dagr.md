@@ -144,7 +144,17 @@ cat ~/.ssh/id_rsa.pub
 
 复制显示的内容到github个人账户的 [setting]->[SSH and GPG keys]->[New SSH key]
 
-###
+### torch-geometric 和 torch-sparse 可能与 PyTorch 1.11.0 不完全兼容
+
+```bash
+pip install --force-reinstall torch-geometric torch-sparse -f https://data.pyg.org/whl/torch-1.11.0+cu113.html --proxy="http://10.16.0.81:8888"
+```
+
+### 下载没有网络
+
+```bash
+export https_proxy='http://10.16.0.81:8888'
+```
 
 ## 其他
 
