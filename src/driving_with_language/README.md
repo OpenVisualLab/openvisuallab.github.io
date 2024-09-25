@@ -11,10 +11,8 @@ arXiv Xplorer检索(全文)：LLM 、large language models、vision language mod
 
 
 ##  ➢综述类（★推荐指数）
-  ★★★★  LLM4Drive: A Survey of Large Language Models for Autonomous Driving
-  
-  Authors: Zhenjie Yang, Xiaosong Jia, Hongyang Li, Junchi Yan
-  
+  ★★★★  LLM4Drive: A Survey of Large Language Models for Autonomous Driving  
+  Authors: Zhenjie Yang, Xiaosong Jia, Hongyang Li, Junchi Yan  
   institution: School of AI and Department of CSE, Shanghai Jiao Tong University, OpenDriveLab
   
   year: 2023
