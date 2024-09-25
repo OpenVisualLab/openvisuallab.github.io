@@ -12,15 +12,23 @@ arXiv Xplorer检索(全文)：LLM 、large language models、vision language mod
 
 ##  ➢综述类（★推荐指数）
   ★★★★  LLM4Drive: A Survey of Large Language Models for Autonomous Driving
+  
   Authors: Zhenjie Yang, Xiaosong Jia, Hongyang Li, Junchi Yan
+  
   institution: School of AI and Department of CSE, Shanghai Jiao Tong University, OpenDriveLab
+  
   year: 2023
+  
   eprint: [v4] Mon, 12 Aug 2024 11:53:28 UTC (538 KB)
 
   ★★★★★  A Survey on Multimodal Large Language Models for Autonomous Driving
+  
   Authors: Cui, Can and Ma, Yunsheng and Cao, Xu and Ye, Wenqian and Zhou, Yang and Liang, Kaizhao and Chen, Jintai and Lu, Juanwu and Yang, Zichong and Liao, Kuei-Da and others
+  
   institution: Purdue University, West Lafayette, IN, USA; Tencent T Lab, Beijing, China; University of Illinois Urbana-Champaign, Champaign, IL, USA
+ 
   year: 2024
+ 
   booktitle: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision
 
 
