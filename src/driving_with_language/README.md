@@ -19,7 +19,7 @@ arXiv Xplorer检索(全文)：LLM 、large language models、vision language mod
 
   ★★★★★  A Survey on Multimodal Large Language Models for Autonomous Driving  
   Authors: Cui, Can and Ma, Yunsheng and Cao, Xu and Ye, Wenqian and Zhou, Yang and Liang, Kaizhao and Chen, Jintai and Lu, Juanwu and Yang, Zichong and Liao, Kuei-Da and others  
-  institution: Purdue University, West Lafayette, IN, USA; Tencent T Lab, Beijing, China; University of Illinois Urbana-Champaign, Champaign, IL, USA 
+  institution: Purdue University, West Lafayette, IN, USA; Tencent T Lab, Beijing, China; University of Illinois Urbana-Champaign, Champaign, IL, USA<br>
   year: 2024  
   booktitle: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision
 
