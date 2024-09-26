@@ -21,7 +21,12 @@ arXiv Xplorer检索(全文)：LLM 、large language models、vision language mod
   Authors: Cui, Can and Ma, Yunsheng and Cao, Xu and Ye, Wenqian and Zhou, Yang and Liang, Kaizhao and Chen, Jintai and Lu, Juanwu and Yang, Zichong and Liao, Kuei-Da and others  
   institution: Purdue University, West Lafayette, IN, USA; Tencent T Lab, Beijing, China; University of Illinois Urbana-Champaign, Champaign, IL, USA<br>
   year: 2024  
-  booktitle: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision
+  booktitle: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision  
 
+  ★★★  Will Large Language Models be a Panacea to Autonomous Driving?<br>
+  Authors:Yuxuan Zhu, Shiyi Wang, Wenqing Zhong, Nianchen Shen, Yunqi Li, Siqi Wang, Zhiheng Li, Cathy Wu, Zhengbing He, Li Li <br>
+  institution:Department of Automation, Tsinghua University, Beijing, China<br>
+  year: 2024<br>
+  eprint:arxiv<br>
 
 ##  ➢研究类（★推荐指数）
