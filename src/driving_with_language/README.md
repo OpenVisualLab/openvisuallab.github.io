@@ -23,10 +23,38 @@ arXiv Xplorer检索(全文)：LLM 、large language models、vision language mod
   year: 2024  
   booktitle: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision  
 
-  ★★★  Will Large Language Models be a Panacea to Autonomous Driving?<br>
+  ★★★★  Will Large Language Models be a Panacea to Autonomous Driving?<br>
   Authors:Yuxuan Zhu, Shiyi Wang, Wenqing Zhong, Nianchen Shen, Yunqi Li, Siqi Wang, Zhiheng Li, Cathy Wu, Zhengbing He, Li Li <br>
   institution:Department of Automation, Tsinghua University, Beijing, China<br>
   year: 2024<br>
   eprint:arxiv<br>
 
 ##  ➢研究类（★推荐指数）
+### LLM and Existing AD Challenges
+• Solution Insight A: LLMs have demonstrated significant capability in solving the corresponding challenge, and  comprehensive solution based on LLMs can be expected.  
+• Solution Insight B: LLMs have demonstrated capability in solving the corresponding challenge, but the challenge  may not be fully solved given current drawbacks of LLMs.  
+• Solution Insight C: LLMs can improve performance in related tasks, but might not be able to solve the key problems  within the challenges.  
+![image](https://github.com/user-attachments/assets/db47a40a-fd75-4763-afb2-ae5b87495693)  
+LLMs在AD任务中的表现主要源于以下几个方面：
+1) Common Sense.
+2) Reasoning Capability.
+3) Communication ability.(就是与人类互动交流的能力，一定程度上解决了神经网络作为黑盒模型的问题，可信问题)
+
+##  ➢ LLM Related AD Datasets.
+
+![image](https://github.com/user-attachments/assets/57c1361f-c8bb-4425-9c01-5ce90edadbb8)
+Reason2Drive  
+NuPrompt  
+DriveGPT4  
+LingoQA  
+WEDGE  
+DriveLM-nuScenes  
+DriveLM-Carla  
+NuScenes-QA  
+Rank2Tell  
+LaMPilot  
+MAPLM  
+LMDrive
+
+
+
