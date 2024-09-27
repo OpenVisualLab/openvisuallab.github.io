@@ -50,7 +50,7 @@ LingoQA
 WEDGE  
 DriveLM-nuScenes  
 DriveLM-Carla  
-NuScenes-QA  
+NuScenes-QA   
 Rank2Tell  
 LaMPilot  
 MAPLM  
