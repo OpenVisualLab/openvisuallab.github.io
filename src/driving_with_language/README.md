@@ -30,6 +30,7 @@ arXiv Xplorer检索(全文)：LLM 、large language models、vision language mod
   eprint:arxiv<br>
 
 ##  ➢研究类（★推荐指数）
+
 ### LLM and Existing AD Challenges
 • Solution Insight A: LLMs have demonstrated significant capability in solving the corresponding challenge, and  comprehensive solution based on LLMs can be expected.  
 • Solution Insight B: LLMs have demonstrated capability in solving the corresponding challenge, but the challenge  may not be fully solved given current drawbacks of LLMs.  
