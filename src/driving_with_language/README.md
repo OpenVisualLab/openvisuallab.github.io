@@ -30,6 +30,11 @@ arXiv Xplorer检索(全文)：LLM 、large language models、vision language mod
   eprint:arxiv<br>
 
 ##  ➢研究类（★推荐指数）
+Title: Driving with llms: Fusing object-level vector modality for explainable autonomous driving  
+Authors: Chen, Long; Sinavski, Oleg; Hünermann, Jan; Karnsund, Alice; Willmott, Andrew James; Birch, Danny; Maund, Daniel; Shotton, Jamie  
+Institution: N/A
+Year: 2024
+Publication Title: 2024 IEEE International Conference on Robotics and Automation (ICRA)
 
 ### LLM and Existing AD Challenges
 • Solution Insight A: LLMs have demonstrated significant capability in solving the corresponding challenge, and  comprehensive solution based on LLMs can be expected.  
