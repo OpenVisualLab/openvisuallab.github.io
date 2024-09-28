@@ -26,10 +26,10 @@ A curated list of world model for autonmous driving. Keep updated.
 ## ➢ 认识世界模型
 
 <p style="text-align: center;">
-  <img src="/imgs/archiver/world_model/world_model.png" width="30%" />
+  <img src="/src/.vuepress/public/imgs/archiver/world_model/world_model.png" width="30%" />
 </p>
 
-<!-- ![world model](/imgs/archiver/world_model/world_model.png) -->
+<!-- ![world model](src/.vuepress/public/imgs/archiver/world_model/world_model.png) -->
 
 ### 1. 简单介绍（从世界模型--> 自动驾驶世界模型用于场景生成）  
 
@@ -83,12 +83,19 @@ A curated list of world model for autonmous driving. Keep updated.
 
 #### +  In the real environment, methods like GAIA-1 and Copilot4D involve utilizing generative models to construct neural simulators that produce 2D or 3D future scenes to enhance predictive capabilities
 
+<p style="text-align: center;">
+  <img src="/src/.vuepress/public/imgs/archiver/world_model/End to end.png" width="100%" />
+</p>
+
+<!-- ![world model](src/.vuepress/public/imgs/archiver/world_model/End to end.png) -->
 #### + In the simulation environment, methods such as MILE and TrafficBots are based on reinforcement learning, enhancing their capacity for decision-making and future prediction, thereby paving the way to end-to-end autonomous driving
 
-<!-- <p align="center">
-  <img src="/src/worldmodel/wm_ad.png" width="80%" />
-</p> -->
-![world model in AD](/imgs/archiver/world_model/wm_ad.png)
+
+<p style="text-align: center;">
+  <img src="/src/.vuepress/public/imgs/archiver/world_model/Generation.png" width="100%" />
+</p>
+
+<!-- ![world model](src/.vuepress/public/imgs/archiver/world_model/Generation.png) -->
 
 ### ■ Neural Driving Simulator based on World Models
 
@@ -132,10 +139,10 @@ A curated list of world model for autonmous driving. Keep updated.
 + (1989) Using Occupancy Grids for Mobile Robot Perception and Navigation [[paper](http://www.sci.brooklyn.cuny.edu/~parsons/courses/3415-fall-2011/papers/elfes.pdf)]
 
 <!-- <p align="center">
-  <img src="/imgs/archiver/world_model/world_model_ad.png" width="80%" />
+  <img src="/src/.vuepress/public/imgs/archiver/world_model/world_model_ad.png" width="80%" />
 </p> -->
 
-![world_model_ad](/imgs/archiver/world_model/world_model_ad.png)
+![world_model_ad](/src/.vuepress/public/imgs/archiver/world_model/world_model_ad.png)
 
 ### ■ 按时间顺序更新
 
