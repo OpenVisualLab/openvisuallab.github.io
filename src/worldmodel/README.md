@@ -84,7 +84,7 @@ A curated list of world model for autonmous driving. Keep updated.
 #### +  In the real environment, methods like GAIA-1 and Copilot4D involve utilizing generative models to construct neural simulators that produce 2D or 3D future scenes to enhance predictive capabilities
 
 <p style="text-align: center;">
-  <img src="/src/.vuepress/public/imgs/archiver/world_model/End to end.png" width="100%" />
+  <img src="/src/.vuepress/public/imgs/archiver/world_model/End to end.png" width="80%" />
 </p>
 
 <!-- ![world model](src/.vuepress/public/imgs/archiver/world_model/End to end.png) -->
@@ -139,10 +139,10 @@ A curated list of world model for autonmous driving. Keep updated.
 + (1989) Using Occupancy Grids for Mobile Robot Perception and Navigation [[paper](http://www.sci.brooklyn.cuny.edu/~parsons/courses/3415-fall-2011/papers/elfes.pdf)]
 
 <!-- <p align="center">
-  <img src="/src/.vuepress/public/imgs/archiver/world_model/world_model_ad.png" width="80%" />
+  <img src="/src/.vuepress/public/imgs/archiver/world_model/ad.png" width="80%" />
 </p> -->
 
-![world_model_ad](/src/.vuepress/public/imgs/archiver/world_model/world_model_ad.png)
+![world_model_ad](/src/.vuepress/public/imgs/archiver/world_model/ad.png)
 
 ### ■ 按时间顺序更新
 
