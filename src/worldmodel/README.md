@@ -150,7 +150,7 @@ A curated list of world model for autonmous driving. Keep updated.
 * 2024-LAW: Enhancing End-to-End Autonomous Driving with Latent World Model [Paper](https://arxiv.org/pdf/2406.08481)
 * 2024-OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving [Paper](https://arxiv.org/ab/2405.20337), [Code](https://github.com/wzzheng/OccSora)
 * 2024-Delphi: Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation [Paper](https://arxiv.org/abs/2406.01349)
-* 2024-Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/pdf/2405.17398)
+* 👍2024-Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability __`NeurIPS 2024`__; __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/pdf/2405.17398)
 * 2024-DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving  __`CVPR 2024`__;  __[Paper](https://arxiv.org/pdf/2405.04390),
 * 2024-UniPAD: A Universal Pre-training Paradigm for Autonomous Driving __`CVPR 2024`__;  __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/abs/2310.08370), [Code](https://github.com/Nightmare-n/UniPAD)
 * 2024-GenAD: Generalized Predictive Model for Autonomous Driving __`CVPR 2024`__;  __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/pdf/2403.09630.pdf)
@@ -217,8 +217,9 @@ A curated list of world model for autonmous driving. Keep updated.
 
 ## ■  ➢ 发现的新的有意思的研究方向-->
 
-生成式的World Model可以被用来当作一种仿真工具来生成仿真数据，特别是极为少见的Corner Case的数据。特别是基于LLM的可控条件生成Corner Case，可以进行数据增广，解决真实数据且标注少的现存问题。
+生成式的World Model可以被用来当作一种仿真工具来生成仿真数据，特别是极为少见的Corner Case的数据。特别是基于Text to image 的可控条件生成Corner Case，可以进行数据增广，解决真实数据且标注少的现存问题。
 然而World Model更有潜力的应用方向是World Model可能会成为像GPT一样的自动驾驶领域的基础模型，而其他自动驾驶具体任务都会围绕这个基础模型进行研发构建。
+重点阅读vista
 
 ## ■  ➢可控条件生成-->
 
