@@ -33,7 +33,7 @@ arXiv Xplorer检索(全文)：LLM 、large language models、vision language mod
 Title: Driving with llms: Fusing object-level vector modality for explainable autonomous driving  
 Authors: Chen, Long; Sinavski, Oleg; Hünermann, Jan; Karnsund, Alice; Willmott, Andrew James; Birch, Danny; Maund, Daniel; Shotton, Jamie  
 Institution: N/A
-Year: 2024
+Year: 2024  
 Publication Title: 2024 IEEE International Conference on Robotics and Automation (ICRA)
 
 ### LLM and Existing AD Challenges
