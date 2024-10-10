@@ -25,11 +25,12 @@ A curated list of world model for autonmous driving. Keep updated.
 
 ## ➢ 认识世界模型
 
-<p style="text-align: center;">
+<!--这里图像的路径不用写完全，需要按照vuepress的格式来，而且必须放到src/.vuepress/public文件夹中-->
+<!-- <p style="text-align: center;">
   <img src="/src/.vuepress/public/imgs/archiver/world_model/world_model.png" width="30%" />
-</p>
+</p> -->
 
-<!-- ![world model](src/.vuepress/public/imgs/archiver/world_model/world_model.png) -->
+![world model](/imgs/archiver/world_model/world_model.png)
 
 ### 1. 简单介绍（从世界模型--> 自动驾驶世界模型用于场景生成）  
 
@@ -83,19 +84,19 @@ A curated list of world model for autonmous driving. Keep updated.
 
 #### +  In the real environment, methods like GAIA-1 and Copilot4D involve utilizing generative models to construct neural simulators that produce 2D or 3D future scenes to enhance predictive capabilities
 
-<p style="text-align: center;">
+<!-- <p style="text-align: center;">
   <img src="/src/.vuepress/public/imgs/archiver/world_model/End to end.png" width="80%" />
-</p>
+</p> -->
 
-<!-- ![world model](src/.vuepress/public/imgs/archiver/world_model/End to end.png) -->
+![world model](/imgs/archiver/world_model/End to end.png)
 #### + In the simulation environment, methods such as MILE and TrafficBots are based on reinforcement learning, enhancing their capacity for decision-making and future prediction, thereby paving the way to end-to-end autonomous driving
 
 
-<p style="text-align: center;">
+<!-- <p style="text-align: center;">
   <img src="/src/.vuepress/public/imgs/archiver/world_model/Generation.png" width="100%" />
-</p>
+</p> -->
 
-<!-- ![world model](src/.vuepress/public/imgs/archiver/world_model/Generation.png) -->
+![world model](/imgs/archiver/world_model/Generation.png)
 
 ### ■ Neural Driving Simulator based on World Models
 
@@ -142,7 +143,7 @@ A curated list of world model for autonmous driving. Keep updated.
   <img src="/src/.vuepress/public/imgs/archiver/world_model/ad.png" width="80%" />
 </p> -->
 
-![world_model_ad](/src/.vuepress/public/imgs/archiver/world_model/ad.png)
+![world_model_ad](/imgs/archiver/world_model/ad.png)
 
 ### ■ 按时间顺序更新
 

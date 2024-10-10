@@ -9,6 +9,33 @@ export default navbar([
     prefix: "archiver/",
     children: [
       {
+        text: "intelligence",
+        // prefix: "3.intelligence/",
+        children: [
+          { text: "World Model", icon: "earth-asia", link: "worldmodel/README.md" },
+          { text: "Autonomous Driving", icon: "car", link: "driving_with_language/README.md" },
+          { text: "Robotic Arms", icon: "robot", link: "robot.md" },
+          { text: "Road-scene Anomaly", icon: "road", link: "road.md" },
+        ],
+      },
+      {
+        text: "perception",
+        prefix: "4.perception/",
+        children: [
+          { text: "Object Detection", icon: "expand", link: "object_detection.md" },
+          { text: "Video Anomaly", icon: "video", link: "README.md" },
+          { text: "LLM4Anomaly", icon: "house-fire", link: "LLM4AD.md" },
+          { text: "Event Camera", icon: "camera-rotate", link: "event_camera/README.md" },
+        ],
+      },
+    ]
+},
+  {
+    text: "Browser",
+    icon: "lightbulb",
+    prefix: "browser/",
+    children: [
+      {
         text: "survey",
         prefix: "1.survey/",
         children: [
@@ -22,37 +49,6 @@ export default navbar([
           // { text: "Object Detection", icon: "expand", link: "README.md" },
         ],
       },
-      {
-        text: "intelligence",
-        prefix: "3.intelligence/",
-        children: [
-          { text: "Autonomous Driving", icon: "expand", link: "ad.md" },
-          { text: "Robotic Arms", icon: "expand", link: "robot.md" },
-        ],
-      },
-      {
-        text: "perception",
-        prefix: "4.perception/",
-        children: [
-          { text: "Object Detection", icon: "expand", link: "object_detection.md" },
-        ],
-      },
-      {
-        text: "anomaly",
-        prefix: "5.anomaly",
-        children: [
-          { text: "Road Anomaly", icon: "expand", link: "README.md" },
-          { text: "Video Anomaly", icon: "expand", link: "README.md" },
-          { text: "LLM4Anomaly", icon: "expand", link: "LLM4AD.md" },
-        ],
-      },
-    ]
-},
-  {
-    text: "Browser",
-    icon: "lightbulb",
-    prefix: "browser/",
-    children: [
       {
         text: "learning",
         prefix: "learning/",
