@@ -1,3 +1,7 @@
+---
+author: Jingxin Wang (王京新)
+title: Driving with Language
+---
 
 # ✧ 大模型用于自动驾驶相关文献整理
 谷歌学术检索（标题）：intitle:(autonomous driving OR driving OR self-driving AND LLM OR Large Language Model OR Vision-Language OR Agent OR Multi-Modal)

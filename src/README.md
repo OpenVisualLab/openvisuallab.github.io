@@ -9,10 +9,10 @@ tagline: Only with a mind free from distractions can one see the Way.
 bgImage: assets/images/2307-min.jpg
 heroFullScreen: true
 projects:
-  - icon: project
-    name: project name
-    desc: project detailed description
-    link: https://your.project.link
+  - icon: car
+    name: NexusAD
+    desc: ECCVw 2024 Winner Solution
+    link: https://github.com/OpenVisualLab/NexusAD
 
   - icon: link
     name: link name

@@ -1,5 +1,5 @@
 ---
-author: 张明珠
+author: Zhang Mingzhu (张明珠)
 title: World Model
 ---
 
