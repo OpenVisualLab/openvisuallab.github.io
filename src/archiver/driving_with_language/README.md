@@ -21,32 +21,32 @@ arXiv Xplorer检索(全文)：LLM 、large language models、vision language mod
   year: 2023  
   eprint: [v4] Mon, 12 Aug 2024 11:53:28 UTC (538 KB)
 
-  ★★★★★  A Survey on Multimodal Large Language Models for Autonomous Driving  
+  ★★★★★  A Survey on Multimodal Large Language Models for Autonomous Driving  [paper](https://arxiv.org/abs/2311.12320)  [code](https://github.com/IrohXu/Awesome-Multimodal-LLM-Autonomous-Driving) <br>  
   Authors: Cui, Can and Ma, Yunsheng and Cao, Xu and Ye, Wenqian and Zhou, Yang and Liang, Kaizhao and Chen, Jintai and Lu, Juanwu and Yang, Zichong and Liao, Kuei-Da and others  
   institution: Purdue University, West Lafayette, IN, USA; Tencent T Lab, Beijing, China; University of Illinois Urbana-Champaign, Champaign, IL, USA<br>
   year: 2024  
   booktitle: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision  
 
-  ★★★★  Will Large Language Models be a Panacea to Autonomous Driving?<br>
+  ★★★★  Will Large Language Models be a Panacea to Autonomous Driving?<br>   [paper](https://arxiv.org/abs/2409.14165)  <br>  
   Authors:Yuxuan Zhu, Shiyi Wang, Wenqing Zhong, Nianchen Shen, Yunqi Li, Siqi Wang, Zhiheng Li, Cathy Wu, Zhengbing He, Li Li <br>
   institution:Department of Automation, Tsinghua University, Beijing, China<br>
   year: 2024<br>
   eprint:arxiv<br>
 
-Title: XLM for Autonomous Driving Systems: A Comprehensive Review<br>
+Title: XLM for Autonomous Driving Systems: A Comprehensive Review<br>  [paper](https://www.arxiv.org/pdf/2409.10484) <br>  
 Authors: Sonda Fourati, Wael Jaafar, Noura Baccar, Safwan Alfattani<br>
 Institution:Mediterranean Institute of Technology (MedTech), Tunis, Tunisia、<br>
 Year: 2024<br>
 Publication Title: arXiv preprint arXiv:2409.10484<br>
 
 ##  ➢研究类（★推荐指数）
-Title: Driving with llms: Fusing object-level vector modality for explainable autonomous driving  
+Title: Driving with llms: Fusing object-level vector modality for explainable autonomous driving   [paper](https://arxiv.org/abs/2311.01043)  [code](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)<br>  
 Authors: Chen, Long; Sinavski, Oleg; Hünermann, Jan; Karnsund, Alice; Willmott, Andrew James; Birch, Danny; Maund, Daniel; Shotton, Jamie  
 Institution: Wayve<br>
 Year: 2024 <br> 
 Publication Title: 2024 IEEE International Conference on Robotics and Automation (ICRA)<br>
 
-Title: Drivegpt4: Interpretable end-to-end autonomous driving via large language model<br>
+Title: Drivegpt4: Interpretable end-to-end autonomous driving via large language model<br>  
 Authors: Zhenhua Xu, Yujia Zhang, Enze Xie, Zhen Zhao, Yong Guo, Kwan-Yee K. Wong, Zhenguo Li, Hengshuang Zhao<br>
 Institution:The University of Hong Kong、Zhejiang University、Huawei Noah’s Ark Lab<br>
 Year: 2024<br>
