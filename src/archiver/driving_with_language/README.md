@@ -27,13 +27,13 @@ arXiv Xplorer检索(全文)：LLM 、large language models、vision language mod
   year: 2024  
   booktitle: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision  
 
-  ★★★★  Will Large Language Models be a Panacea to Autonomous Driving?<br>   [paper](https://arxiv.org/abs/2409.14165)  <br>  
+  ★★★★  Will Large Language Models be a Panacea to Autonomous Driving?  [paper](https://arxiv.org/abs/2409.14165)  <br>  
   Authors:Yuxuan Zhu, Shiyi Wang, Wenqing Zhong, Nianchen Shen, Yunqi Li, Siqi Wang, Zhiheng Li, Cathy Wu, Zhengbing He, Li Li <br>
   institution:Department of Automation, Tsinghua University, Beijing, China<br>
   year: 2024<br>
   eprint:arxiv<br>
 
-Title: XLM for Autonomous Driving Systems: A Comprehensive Review<br>  [paper](https://www.arxiv.org/pdf/2409.10484) <br>  
+Title: XLM for Autonomous Driving Systems: A Comprehensive Review  [paper](https://www.arxiv.org/pdf/2409.10484) <br>  
 Authors: Sonda Fourati, Wael Jaafar, Noura Baccar, Safwan Alfattani<br>
 Institution:Mediterranean Institute of Technology (MedTech), Tunis, Tunisia、<br>
 Year: 2024<br>
