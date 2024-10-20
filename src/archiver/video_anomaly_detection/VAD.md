@@ -1,4 +1,5 @@
 ---
+author: Mo Meng Jingcheng (莫梦竟成); Zheng JianKang (郑健康)
 title: 视频异常检测 
 ---
 ## ✧ 视频异常检测 (Video Anomaly Detection)
