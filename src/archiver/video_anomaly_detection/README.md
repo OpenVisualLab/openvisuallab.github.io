@@ -1,7 +1,8 @@
 ---
+author: Mo Meng Jingcheng (莫梦竟成); Zheng JianKang (郑健康)
 title: Overview
 dir:
-    text: 5.anomaly
+    text: Video Anomaly Detection
 ---
 
 
