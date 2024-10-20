@@ -1,8 +1,9 @@
 ---
+author: Mo Meng Jingcheng (莫梦竟成); Zheng JianKang (郑健康)
 title: Video Anomaly
 # icon: box-archive
 dir:
-    text: 5.anomaly
+    text: Video Anomaly Detection
     order: 1
 ---
 
