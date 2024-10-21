@@ -20,7 +20,7 @@ export default navbar([
       },
       {
         text: "perception",
-        prefix: "4.perception/",
+        // prefix: "4.perception/", https://fontawesome.com/
         children: [
           { text: "Object Detection", icon: "expand", link: "object_detection.md" },
           { text: "Video Anomaly", icon: "video", link: "video_anomaly_detection/README.md" },
