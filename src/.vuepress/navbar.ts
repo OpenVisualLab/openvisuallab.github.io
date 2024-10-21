@@ -14,8 +14,8 @@ export default navbar([
         children: [
           { text: "World Model", icon: "earth-asia", link: "worldmodel/README.md" },
           { text: "Autonomous Driving", icon: "car", link: "driving_with_language/README.md" },
-          { text: "Robotic Arms", icon: "robot", link: "robot.md" },
-          { text: "Road-scene Anomaly", icon: "road", link: "road.md" },
+          { text: "Robotic Arms", icon: "robot", link: "robot_arm/README.md" },
+          { text: "Foundational Model", icon: "robot", link: "robot_arm/README.md" },
         ],
       },
       {
@@ -23,6 +23,7 @@ export default navbar([
         // prefix: "4.perception/", https://fontawesome.com/
         children: [
           { text: "Object Detection", icon: "expand", link: "object_detection.md" },
+          { text: "Road-scene Anomaly", icon: "road", link: "road.md" },
           { text: "Video Anomaly", icon: "video", link: "video_anomaly_detection/README.md" },
           { text: "Medical Segmentation", icon: "brain", link: "medical/README.md" },
           { text: "Event Camera", icon: "camera-rotate", link: "event_camera/README.md" },
