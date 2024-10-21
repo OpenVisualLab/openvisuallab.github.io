@@ -23,8 +23,8 @@ export default navbar([
         prefix: "4.perception/",
         children: [
           { text: "Object Detection", icon: "expand", link: "object_detection.md" },
-          { text: "Video Anomaly", icon: "video", link: "README.md" },
-          { text: "LLM4Anomaly", icon: "house-fire", link: "LLM4AD.md" },
+          { text: "Video Anomaly", icon: "video", link: "video_anomaly_detection/README.md" },
+          { text: "Medical Segmentation", icon: "brain", link: "medical/README.md" },
           { text: "Event Camera", icon: "camera-rotate", link: "event_camera/README.md" },
         ],
       },
