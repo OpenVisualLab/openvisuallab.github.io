@@ -1,8 +1,6 @@
 ---
 author: Mo Meng Jingcheng (莫梦竟成); Zheng JianKang (郑健康)
 title: VAD Basics
-dir:
-    text: Video Anomaly Detection
 ---
 
 # 视频异常检测 (VAD) 基础知识
