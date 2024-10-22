@@ -26,11 +26,9 @@ A curated list of world model for autonmous driving. Keep updated.
 ## ➢ 认识世界模型
 
 <!--这里图像的路径不用写完全，需要按照vuepress的格式来，而且必须放到src/.vuepress/public文件夹中-->
-<!-- <p style="text-align: center;">
-  <img src="/src/.vuepress/public/imgs/archiver/world_model/world_model.png" width="30%" />
-</p> -->
-
-![world model](/imgs/archiver/world_model/world_model.png)
+<p style="text-align: center;">
+  <img src="/src/.vuepress/public/imgs/archiver/world_model/world_model.png" style="width: 30%;" alt="world model"/>
+</p>
 
 ### 1. 简单介绍（从世界模型--> 自动驾驶世界模型用于场景生成）  
 
@@ -83,13 +81,13 @@ A curated list of world model for autonmous driving. Keep updated.
 
 #### + There are two main types of world models in Autonomous Driving aimed at reducing driving uncertainty, i.e., World Model as Neural Driving Simulator and World Model for End-to-end Driving
 
+
+<!-- 仅使用Markdown，不带缩放 -->
+![world model](/src/.vuepress/public/imgs/archiver/world_model/End%20to%20end.png)
+
 #### +  In the real environment, methods like GAIA-1 and Copilot4D involve utilizing generative models to construct neural simulators that produce 2D or 3D future scenes to enhance predictive capabilities
 
-<!-- <p style="text-align: center;">
-  <img src="/src/.vuepress/public/imgs/archiver/world_model/End to end.png" width="80%" />
-</p> -->
 
-![world model](/imgs/archiver/world_model/End to end.png)
 #### + In the simulation environment, methods such as MILE and TrafficBots are based on reinforcement learning, enhancing their capacity for decision-making and future prediction, thereby paving the way to end-to-end autonomous driving
 
 
@@ -97,7 +95,7 @@ A curated list of world model for autonmous driving. Keep updated.
   <img src="/src/.vuepress/public/imgs/archiver/world_model/Generation.png" width="100%" />
 </p> -->
 
-![world model](/imgs/archiver/world_model/Generation.png)
+![world model](/src/.vuepress/public/imgs/archiver/world_model/Generation.png)
 
 ### ■ Neural Driving Simulator based on World Models
 
@@ -136,11 +134,10 @@ A curated list of world model for autonmous driving. Keep updated.
 * (2023 ICRA) TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction [[Paper](https://ieeexplore.ieee.org/abstract/document/10161243)] (ETH Zurich)
 * (2024 Arxiv) Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2) [[Paper](https://arxiv.org/abs/2402.16720)] (SJTU)
 
-<!-- <p align="center">
-  <img src="/src/.vuepress/public/imgs/archiver/world_model/ad.png" width="80%" />
-</p> -->
-
-![world_model_ad](/imgs/archiver/world_model/ad.png)
+<!-- 使用HTML标签控制图片大小并居中对齐 -->
+<p align="center">
+  <img src="/src/.vuepress/public/imgs/archiver/world_model/ad.png" style="width: 30%;" alt="world_model_ad"/>
+</p>
 
 ### ■ 按时间顺序更新
 
