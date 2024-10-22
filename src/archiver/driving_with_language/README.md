@@ -132,13 +132,13 @@ Institution: Shanghai Jiao Tong University<br>
 Year: 2023<br>
 Publication Title: Arxiv<br>
 
-Title: SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving   [paper](https://arxiv.org/pdf/2407.21293)  [code]()<br>  
+Title: SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving [paper(https://arxiv.org/pdf/2407.21293)  [code]() <br>  
 Authors: Peiru Zheng, Yun Zhao, Zhan Gong, Hong Zhu, Shaohua Wu<br>
 Institution: Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences<br>
 Year: 2024<br>
 Publication Title: Arxiv<br>
 
-### LLM and Existing AD Challenges
+### LLM and Existing AD Challenges  [paper](https://arxiv.org/abs/2409.14165)
 • Solution Insight A: LLMs have demonstrated significant capability in solving the corresponding challenge, and  comprehensive solution based on LLMs can be expected.  
 • Solution Insight B: LLMs have demonstrated capability in solving the corresponding challenge, but the challenge  may not be fully solved given current drawbacks of LLMs.  
 • Solution Insight C: LLMs can improve performance in related tasks, but might not be able to solve the key problems  within the challenges.  
