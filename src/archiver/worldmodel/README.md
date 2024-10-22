@@ -55,6 +55,7 @@ A curated list of world model for autonmous driving. Keep updated.
 ## 3.挑战赛 Workshops/Challenges
 
 * 2024-1X World Model Challenge  __`Challenges`__ [Link](https://github.com/1x-technologies/1xgpt)
+* 2024-ECCV Corner case Challenge  __`Challenges`__ [Link](https://github.com/1x-technologies/1xgpt)
   
 * 2024-CVPR Workshop, Foundation Models for Autonomous Systems, Challenges, Track 4: Predictive World Model __`Challenges`__ [Link](https://opendrivelab.com/challenge2024/)
 
@@ -123,7 +124,7 @@ A curated list of world model for autonmous driving. Keep updated.
   
 #### ■ 4D Pre-training for Autonomous Driving
 
-+ (2023 Arxiv) UniWorld: Autonomous Driving Pre-training via World Models [[Paper](https://arxiv.org/abs/2308.07234)] (PKU)
+
 * (2024 CVPR) ViDAR: Visual Point Cloud Forecasting enables Scalable Autonomous Driving [[Paper](https://arxiv.org/abs/2312.17655)][[Code](https://github.com/OpenDriveLab/ViDAR)] (Shanghai AI Lab)
 * 👍(2024 CVPR) DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving [[Paper](XXX)] (PKU)
   
@@ -135,10 +136,6 @@ A curated list of world model for autonmous driving. Keep updated.
 * (2023 ICRA) TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction [[Paper](https://ieeexplore.ieee.org/abstract/document/10161243)] (ETH Zurich)
 * (2024 Arxiv) Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2) [[Paper](https://arxiv.org/abs/2402.16720)] (SJTU)
 
-### ■ Others
-
-+ (1989) Using Occupancy Grids for Mobile Robot Perception and Navigation [[paper](http://www.sci.brooklyn.cuny.edu/~parsons/courses/3415-fall-2011/papers/elfes.pdf)]
-
 <!-- <p align="center">
   <img src="/src/.vuepress/public/imgs/archiver/world_model/ad.png" width="80%" />
 </p> -->
@@ -148,7 +145,8 @@ A curated list of world model for autonmous driving. Keep updated.
 ### ■ 按时间顺序更新
 
 ## Papers
-
+* 2024-DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model [Paper](https://arxiv.org/abs/2410.10738)  __`Dataset`__
+* 2024-Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models [Paper](https://arxiv.org/abs/2409.16663)  __`Planning`__
 * 2024-OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving [Paper](https://www.arxiv.org/abs/2409.03272)
 * 2024-Drive-OccWorld: Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving [Paper](https://arxiv.org/pdf/2408.14197)
 * 2024-CarFormer: Self-Driving with Learned Object-Centric Representations  __`ECCV 2024`__ [Paper](https://arxiv.org/pdf/2407.15843)
@@ -228,6 +226,7 @@ A curated list of world model for autonmous driving. Keep updated.
 生成式的World Model可以被用来当作一种仿真工具来生成仿真数据，特别是极为少见的Corner Case的数据。特别是基于Text to image 的可控条件生成Corner Case，可以进行数据增广，解决真实数据且标注少的现存问题。
 然而World Model更有潜力的应用方向是World Model可能会成为像GPT一样的自动驾驶领域的基础模型，而其他自动驾驶具体任务都会围绕这个基础模型进行研发构建。
 重点阅读vista
+还有一篇是新出的数据集可以进行复现。
 
 ## ■  ➢可控条件生成-->
 
@@ -251,10 +250,5 @@ A curated list of world model for autonmous driving. Keep updated.
 
 ### 1. DEFINITION
 
-每篇文章的创新点从单一多视角到环视视角、从单一输入到多模态输入来提高生成质量。需解决时空不一致性和生成场景连续性。
+每篇文章的创新点从单一多视角到环视视角、从单一输入到多模态输入来提高生成质量。还有视频生成的时长，以及轨迹预测，基于决策的世界模型方法。需解决时空不一致性和生成场景连续性。
 
-### 2. RELATED WORK
-
-[1] Joint Detection and Recounting of Abnormal Events by Learning Deep Generic Knowledge (ICCV 2017)  
-[2] X-MAN: Explaining multiple sources of anomalies in video (CVPR workshop 2021)  
-[3] Discrete neural representations for explainable anomaly detection (WACV 2022)
