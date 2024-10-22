@@ -40,99 +40,99 @@ Year: 2024<br>
 Publication Title: arXiv preprint arXiv:2409.10484<br>
 
 ##  ➢研究类（★推荐指数）
-Title: Driving with llms: Fusing object-level vector modality for explainable autonomous driving   [paper](https://arxiv.org/abs/2311.01043)  [code](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)<br>  
+Title: Driving with llms: Fusing object-level vector modality for explainable autonomous driving   [paper](https://arxiv.org/abs/2310.01957)  [code](https://github.com/wayveai/Driving-with-LLMs)<br>  
 Authors: Chen, Long; Sinavski, Oleg; Hünermann, Jan; Karnsund, Alice; Willmott, Andrew James; Birch, Danny; Maund, Daniel; Shotton, Jamie  
 Institution: Wayve<br>
 Year: 2024 <br> 
 Publication Title: 2024 IEEE International Conference on Robotics and Automation (ICRA)<br>
 
-Title: Drivegpt4: Interpretable end-to-end autonomous driving via large language model<br>  
+Title: Drivegpt4: Interpretable end-to-end autonomous driving via large language model  [paper](https://arxiv.org/abs/2310.01412)  [code](https://tonyxuqaq.github.io/projects/DriveGPT4/)<br>  
 Authors: Zhenhua Xu, Yujia Zhang, Enze Xie, Zhen Zhao, Yong Guo, Kwan-Yee K. Wong, Zhenguo Li, Hengshuang Zhao<br>
 Institution:The University of Hong Kong、Zhejiang University、Huawei Noah’s Ark Lab<br>
 Year: 2024<br>
 Publication Title: IEEE Robotics and Automation Letters<br>
 
 
-Title: Lampilot: An open benchmark dataset for autonomous driving with language model programs<br>
+Title: Lampilot: An open benchmark dataset for autonomous driving with language model programs    [paper](https://arxiv.org/pdf/2312.04372)  [code](https://github.com/PurdueDigitalTwin/LaMPilot)<br>  
 Authors: Yunsheng Ma, Can Cui, Xu Cao, Wenqian Ye, Peiran Liu, Juanwu Lu, Amr Abdelraouf, Rohit Gupta, Kyungtae Han, Aniket Bera<br>
 Institution:Purdue University、University of Illinois Urbana-Champaign、University of Virginia<br>
 Year: 2024<br>
 Publication Title: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition<br>
 
-Title: A language agent for autonomous driving<br>
+Title: A language agent for autonomous driving    [paper](https://arxiv.org/pdf/2311.10813)  [code](https://usc-gvl.github.io/Agent-Driver/)<br>  
 Authors: Jiageng Mao, Junjie Ye, Yuxi Qian, Marco Pavone, Yue Wang<br>
 Institution:University of Southern California、Stanford University<br>
 Year: 2023<br>
 Publication Title: arXiv preprint arXiv:2311.10813<br>
 
-Title: Vision language models in autonomous driving and intelligent transportation systems<br>
+Title: Vision language models in autonomous driving and intelligent transportation systems   [paper](https://arxiv.org/pdf/2310.14414)  [code](https://github.com/ge25nab/Awesome-VLM-AD-ITS)<br>  
 Authors: Xingcheng Zhou, Mingyu Liu, Bare Luka Zagar, Ekim Yurtsever, Alois C. Knoll<br>
 Institution:<br>
 Year: 2023<br>
 Publication Title: arXiv preprint arXiv:2310.14414<br>
 
-Title: OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning<br>
+Title: OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning  [paper](https://arxiv.org/pdf/2405.01533)  [code](https://github.com/NVlabs/OmniDrive)<br>  
 Authors: Shihao Wang, Zhiding Yu, Xiaohui Jiang, Shiyi Lan, Min Shi, Nadine Chang, Jan Kautz, Ying Li, Jose M. Alvarez<br>
 Institution:Beijing Inst of Tech、NVIDIA<br>
 Year: 2024<br>
 Publication Title: arXiv preprint arXiv:2405.01533<br>
 
 
-Title: Drive like a human: Rethinking autonomous driving with large language models<br>
+Title: Drive like a human: Rethinking autonomous driving with large language models   [paper](https://arxiv.org/pdf/2307.07162)  [code](https://github.com/PJLab-ADG/DriveLikeAHuman)<br>  
 Authors: Daocheng Fu, Xin Li, Licheng Wen, Min Dou, Pinlong Cai, Botian Shi, Yu Qiao<br>
 Institution:Shanghai AI Lab<br>
 Year: 2024<br>
 Publication Title: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision<br>
 
-Title: DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences<br>
+Title: DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences   [paper](https://arxiv.org/pdf/2406.03008)  [code](https://sled-group.github.io/driVLMe/)<br>  
 Authors: Yidong Huang, Jacob Sansom, Ziqiao Ma, Felix Gervits, Joyce Chai<br>
 Institution:University of Michigan、Army Research Lab<br>
 Year: 2024<br>
 Publication Title: arXiv preprint arXiv:2406.03008<br>
 
-Title: Dilu: A knowledge-driven approach to autonomous driving with large language models<br>
+Title: Dilu: A knowledge-driven approach to autonomous driving with large language models   [paper](https://arxiv.org/pdf/2309.16292)  [code](https://pjlab-adg.github.io/DiLu/)<br>  
 Authors: Licheng Wen, Daocheng Fu, Xin Li, Xinyu Cai, Tao Ma, Pinlong Cai, Min Dou, Botian Shi, Liang He, Yu Qiao<br>
 Institution:Shanghai Artificial Intelligence Laboratory<br>
 Year: 2023<br>
 Publication Title: arXiv preprint arXiv:2309.16292<br>
 
-Title: Editable scene simulation for autonomous driving via collaborative LLM-agents<br>
+Title: Editable scene simulation for autonomous driving via collaborative LLM-agents   [paper](https://arxiv.org/pdf/2402.05746)  [code](https://github.com/yifanlu0227/ChatSim)<br>  
 Authors: Yuxi Wei, Zi Wang, Yifan Lu, Chenxin Xu, Changxing Liu, Hao Zhao, Siheng Chen, Yanfeng Wang<br>
 Institution:Shanghai Jiao Tong University、Shanghai AI Laboratory<br>
 Year: 2024<br>
 Publication Title: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition<br>
 
-Title: Drivevlm: The convergence of autonomous driving and large vision-language models<br>
+Title: Drivevlm: The convergence of autonomous driving and large vision-language models   [paper](https://arxiv.org/pdf/2402.12289)  [code](https://tsinghua-mars-lab.github.io/DriveVLM/)<br>  
 Authors: Xiaoyu Tian, Junru Gu, Bailin Li, Yicheng Liu, Chenxu Hu, Yang Wang, Kun Zhan, Peng Jia, Xianpeng Lang, Hang Zhao<br>
 Institution:IIIS, Tsinghua University、Li Auto<br>
 Year: 2024<br>
 Publication Title: arXiv preprint arXiv:2402.12289<br>
 
-Title: Vlaad: Vision and language assistant for autonomous driving<br>
+Title: Vlaad: Vision and language assistant for autonomous driving   [paper](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/papers/Park_VLAAD_Vision_and_Language_Assistant_for_Autonomous_Driving_WACVW_2024_paper.pdf)  [code](https://github.com/sungyeonparkk/vision-assistant-fordriving)<br>  
 Authors: SungYeon Park, MinJae Lee, JiHyuk Kang, Hahyeon Choi, Yoonah Park, Juhwan Cho, Adam Lee, DongKyu Kim<br>
 Institution:Seoul National University、University of California, Berkeley<br>
 Year: 2024<br>
 Publication Title: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision<br>
 
-Title: Asynchronous Large Language Model Enhanced Planner for Autonomous Driving<br>
+Title: Asynchronous Large Language Model Enhanced Planner for Autonomous Driving   [paper](https://arxiv.org/pdf/2406.14556)  [code](https://github.com/memberRE/AsyncDriver)<br>  
 Authors: Yuan Chen, Zi-han Ding, Ziqin Wang, Yan Wang, Lijun Zhang, Si Liu<br>
 Institution: Beihang University、AIR, Tsinghua University<br>
 Year: 2024<br>
 Publication Title: arXiv preprint arXiv:2406.14556<br>
 
-Title: Empowering Autonomous Driving with Large Language Models: A Safety Perspective<br>
+Title: Empowering Autonomous Driving with Large Language Models: A Safety Perspective   [paper](https://arxiv.org/pdf/2312.00812)  [code]()<br>  
 Authors: Yixuan Wang, Ruochen Jiao, Chengtian Lang, Sinong Simon Zhan, Chao Huang, Zhaoran Wang, Zhuoran Yang, Qi Zhu<br>
 Institution: Northwestern University<br>
 Year: 2023<br>
 Publication Title: Arxiv<br>
 
-Title: A Survey of Large Language Models for Autonomous Driving<br>
+Title: A Survey of Large Language Models for Autonomous Driving   [paper](https://arxiv.org/pdf/2311.01043)  [code](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)<br>  
 Authors: Zhenjie Yang, Xiaosong Jia, Hongyang Li, Junchi Yan<br>
 Institution: Shanghai Jiao Tong University<br>
 Year: 2023<br>
 Publication Title: Arxiv<br>
 
-Title: SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving<br>
+Title: SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving   [paper](https://arxiv.org/pdf/2407.21293)  [code]()<br>  
 Authors: Peiru Zheng, Yun Zhao, Zhan Gong, Hong Zhu, Shaohua Wu<br>
 Institution: Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences<br>
 Year: 2024<br>
