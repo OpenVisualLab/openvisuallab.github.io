@@ -85,7 +85,7 @@ A curated list of world model for autonmous driving. Keep updated.
 
 <!--这里图像的路径不用写完全，需要按照vuepress的格式来，而且必须放到src/.vuepress/public文件夹中-->
 <!-- <p style="text-align: center;">
-  <img src="/src/.vuepress/public/imgs/archiver/world_model/End%20to%20end.png" width="20%" />
+  <img src="/src/.vuepress/public/imgs/archiver/world_model/End%20to%20end.png" width="100%" />
 </p> -->
 
 ![world model](/imgs/archiver/world_model/End%20to%20end.png)
@@ -143,7 +143,7 @@ A curated list of world model for autonmous driving. Keep updated.
 
 <!--这里图像的路径不用写完全，需要按照vuepress的格式来，而且必须放到src/.vuepress/public文件夹中-->
 <!-- <p style="text-align: center;">
-  <img src="/src/.vuepress/public/imgs/archiver/world_model/ad.png" width="100%" />
+  <img src="/src/.vuepress/public/imgs/archiver/world_model/ad.png" width="30%" />
 </p> -->
 
 ![world model](/imgs/archiver/world_model/ad.png)
