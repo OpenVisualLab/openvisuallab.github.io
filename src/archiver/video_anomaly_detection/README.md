@@ -175,10 +175,10 @@ dir:
 
 ## ➢ 发现的新的有意思的研究方向 → Explainable Anomaly Detection (EAD) 可解释性异常检测
 
-### 1. 定义
+### ■ 定义
 此任务旨在检测视频中的异常事件并自动生成高层次解释。理解异常事件的原因至关重要，因为所需的响应取决于其性质和严重性。
 
-### 2. 相关工作
+### ■ 相关工作
 - [1] Joint Detection and Recounting of Abnormal Events by Learning Deep Generic Knowledge (ICCV 2017)。
 - [2] X-MAN: Explaining multiple sources of anomalies in video (CVPR workshop 2021)。
 - [3] Discrete neural representations for explainable anomaly detection (WACV 2022)。
