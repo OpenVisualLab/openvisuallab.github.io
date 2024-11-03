@@ -3,7 +3,7 @@ author: Mo Meng Jingcheng (莫梦竟成); Zheng JianKang (郑健康)
 title: Video Anomaly
 # icon: box-archive
 dir:
-    text: Video Anomaly Detection
+    text: Resource Collection
     order: 1
 ---
 
