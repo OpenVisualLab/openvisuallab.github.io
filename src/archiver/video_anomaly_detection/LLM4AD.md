@@ -14,11 +14,11 @@ star: true
 
 大语言模型在视频异常检测中的应用
 
-## 期刊会议
+## ➢ 期刊会议
 
 https://air-discover.github.io/Hint-AD/
 
-### Uncovering What Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly
+### ■ Uncovering What Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly
 
 `CVPR'24` `BUPT` &nbsp;
 [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Du_Uncovering_What_Why_and_How_A_Comprehensive_Benchmark_for_Causation_CVPR_2024_paper.html)
@@ -38,7 +38,7 @@ https://air-discover.github.io/Hint-AD/
 }
 ```
 
-### Harnessing Large Language Models for Training-free Video Anomaly Detection
+### ■ Harnessing Large Language Models for Training-free Video Anomaly Detection
 
 `CVPR'24` `University of Trento` &nbsp;
 [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf)
@@ -48,7 +48,7 @@ https://air-discover.github.io/Hint-AD/
 
 视频异常检测（Video Anomaly Detection, VAD）旨在对视频中的异常事件进行时间定位。现有的大多数工作主要依赖于通过视频级监督、单类监督或无监督设置来训练深度模型，以学习正常性的分布。然而，基于训练的方法往往具有领域特定性，这使得在实际部署中成本高昂，因为任何领域的变化都需要进行数据收集和模型训练。在本文中，我们彻底摆脱了以往的努力，提出了一种基于语言的VAD方法（LAnguage-based VAD, LAVAD），该方法通过利用预训练的大型语言模型（LLMs）和现有的视觉语言模型（VLMs），在一个新颖的、无需训练的范式下解决VAD问题。我们利用基于VLM的字幕生成模型，为任何测试视频的每一帧生成文本描述。通过文本场景描述，我们设计了一种提示机制，以解锁LLMs在时间聚合和异常评分估计方面的能力，将LLMs变成一个有效的视频异常检测器。我们进一步利用模态对齐的VLMs，并基于跨模态相似性提出了有效的技术，用于清理噪声字幕和优化基于LLM的异常评分。我们在两个大型数据集（UCF-Crime和XD-Violence）上对LAVAD进行了评估，结果显示，它在不需要任何训练或数据收集的情况下，表现优于无监督和单类方法。
 
-### VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection
+### ■ VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection
 
 `AAAI'24` `Northwestern Polytechnical University (西北工业大学)`
 
@@ -59,7 +59,7 @@ https://air-discover.github.io/Hint-AD/
 
 近期对比语言-图像预训练（CLIP）模型在多种图像级任务中取得了巨大成功，展示了其在学习具有丰富语义的强大视觉表征方面的卓越能力。一个开放且有价值的问题是如何将如此强大的模型高效地适应到视频领域，并设计出一个稳健的视频异常检测器。在这项工作中，我们提出了VadCLIP，一种新颖的弱监督视频异常检测（WSVAD）范式，通过直接利用冻结的CLIP模型，而无需任何预训练和微调过程。与当前直接将提取的特征输入到弱监督分类器进行帧级二分类的方法不同，VadCLIP充分利用CLIP的视觉和语言之间的细粒度关联，并涉及双分支结构。一个分支仅利用视觉特征进行粗粒度二分类，而另一个分支则充分利用细粒度的语言-图像对齐。借助双分支的优势，VadCLIP通过将CLIP的预训练知识转移到WSVAD任务，实现了粗粒度和细粒度的视频异常检测。我们在两个常用基准测试上进行了大量实验，证明VadCLIP在粗粒度和细粒度WSVAD任务上都取得了最佳性能，远超现有的最先进方法。具体而言，VadCLIP在XD-Violence和UCF-Crime数据集上的AP分别达到了84.51%和88.02%。代码和特征已发布在该网址。
 
-### AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection
+### ■ AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection
 
 `ICLR'24` `Zhejiang University (浙江大学)` &nbsp;
 
@@ -83,9 +83,9 @@ https://air-discover.github.io/Hint-AD/
 }
 ```
 
-## 还没中的
+## ➢ 还没中的
 
-### VAD-LLaMA: Video Anomaly Detection and Explanation via Large Language Models
+### ■ VAD-LLaMA: Video Anomaly Detection and Explanation via Large Language Models
 
 `11 Jan 2024` `Singapore Management University` `Weakly Surpervised` &nbsp;
 [Github](https://github.com/ktr-hubrt/VAD-LLaMA)
@@ -97,7 +97,7 @@ https://air-discover.github.io/Hint-AD/
 
 视频异常检测（Video Anomaly Detection, VAD）旨在对长时间监控视频的时间线上定位异常事件。基于异常评分的方法多年来一直占主导地位，但它们在阈值设定上的复杂性和检测结果的低可解释性方面存在问题。在本文中，我们首次将视频大语言模型（VLLMs）引入VAD框架，使VAD模型无需依赖阈值，并能够解释所检测到的异常的原因。我们引入了一种新颖的网络模块——长时上下文（Long-Term Context, LTC），以缓解VLLMs在长时上下文建模中的不足。我们设计了一个三阶段训练方法，通过显著减少VAD数据的需求和降低指令微调数据标注的成本，提高了微调VLLMs的效率。我们训练的模型在UCF-Crime和TAD基准测试的异常视频上取得了顶级性能，AUC分别提高了3.86%和4.96%。更令人印象深刻的是，我们的方法能够为检测到的异常提供文本解释。
 
-### VANE-Bench: Video Anomaly Evaluation Benchmark for Conversational LMMs
+### ■ VANE-Bench: Video Anomaly Evaluation Benchmark for Conversational LMMs
 
 `arXiv'24` `MBZUAI` &nbsp;
 [arXiv](https://arxiv.org/pdf/2406.10326)
@@ -119,7 +119,7 @@ https://air-discover.github.io/Hint-AD/
 }
 ```
 
-### HAWK: Learning to Understand Open-World Video Anomalies
+### ■ HAWK: Learning to Understand Open-World Video Anomalies
 
 `arXiv'24` `HKUST(GZ)` &nbsp;
 [arXiv](https://arxiv.org/pdf/2405.16886)
@@ -142,7 +142,7 @@ https://air-discover.github.io/Hint-AD/
 }
 ```
 
-### Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM
+### ■ Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM
 
 `arXiv'24` `HUST` &nbsp;
 [arXiv](https://arxiv.org/pdf/2406.12235)
@@ -165,9 +165,9 @@ https://air-discover.github.io/Hint-AD/
     }
 ```
 
-## Open Vocabulary 异常检测
+## ➢ Open Vocabulary 异常检测
 
-### Open-Vocabulary Video Anomaly Detection
+### ■ Open-Vocabulary Video Anomaly Detection
 
 `CVPR'24` `Northwestern Polytechnical University(西北工业大学)`
 
