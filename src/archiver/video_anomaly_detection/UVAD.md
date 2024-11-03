@@ -7,7 +7,7 @@ dir:
     order: 1
 ---
 
-## 数据集
+## ➢ 数据集
 
 1. **UMN** - [下载链接](http://mha.cs.umn.edu/)
 2. **UCSD** - [下载链接](http://www.svcl.ucsd.edu/projects/anomaly/dataset.html)
@@ -27,7 +27,7 @@ dir:
 12. **ADOC (ACCV 2020)** - [下载链接](http://qil.uh.edu/main/datasets/)
 13. **UBnormal (CVPR 2022)** - [项目链接](https://github.com/lilygeorgescu/UBnormal) `Open-Set`
 
-### 交通事故相关数据集
+### ■ 交通事故相关数据集
 
 1. **CADP (CarCrash Accidents Detection and Prediction)** - [项目链接](https://github.com/ankitshah009/CarCrash_forecasting_and_detection)
 2. **DAD** - [论文](https://yuxng.github.io/chan_accv16.pdf), [下载链接](https://aliensunmin.github.io/project/dashcam/)
@@ -36,7 +36,7 @@ dir:
 5. **DoTA** - [下载链接](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly)
 6. **Iowa DOT** - [下载链接](https://www.aicitychallenge.org/2018-ai-city-challenge/)
 
-## 视频异常检测开源代码
+## ➢ 视频异常检测开源代码
 
 - **Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors (CVPR'24)** - [代码链接](https://github.com/ristea/aed-mae)
 - **Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection (TPAMI'22)**
@@ -56,7 +56,7 @@ dir:
 - **A Hybrid Video Anomaly Detection Framework via Memory-Augmented Flow Reconstruction and Flow-Guided Frame Prediction (ICCV 2021)** - [代码链接](https://github.com/LiUzHiAn/hf2vad)
 - **Video Anomaly Detection by Solving Decoupled Spatio-Temporal Jigsaw Puzzles (ECCV 2022)**
 
-## 论文合集与资源
+## ➢ 论文合集与资源
 
 - **异常检测论文合集和资源**：
   - [Awesome Video Anomaly Detection](https://github.com/fjchange/awesome-video-anomaly-detection)
