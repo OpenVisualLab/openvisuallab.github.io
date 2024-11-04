@@ -18,6 +18,26 @@ star: true
 
 https://air-discover.github.io/Hint-AD/
 
+### ■ HAWK: Learning to Understand Open-World Video Anomalies
+
+`NeurIPS'24` `HKUST(GZ)` &nbsp;
+[Paper](https://arxiv.org/pdf/2405.16886)
+[Github](https://github.com/jqtangust/hawk)
+
+<!-- ![主框架图](/imgs/archiver/5.anomaly/HAWK_fig1.png)  -->
+![主框架图](/imgs/archiver/5.anomaly/HAWK_fig2.png)
+
+视频异常检测（Video Anomaly Detection, VAD）系统可以自主监控并识别异常，从而减少对人工操作的需求及相关成本。然而，当前的VAD系统通常受限于对场景的表面语义理解和极少的用户交互。此外，现有数据集中的数据稀缺性也限制了这些系统在开放世界场景中的适用性。在本文中，我们介绍了HAWK，这是一种新颖的框架，利用交互式的大型视觉语言模型（VLM）来精确解释视频异常。HAWK 识别出异常视频和正常视频之间运动信息的差异，明确地将运动模态整合进来，以增强异常识别能力。为强化运动关注，HAWK 在运动和视频空间内构建了一个辅助一致性损失，指导视频分支聚焦于运动模态。此外，为了改善运动到语言的解释能力，我们在运动和其语言表示之间建立了明确的监督关系。此外，我们为超过8,000个异常视频添加了语言描述标签，使其能够在多样化的开放世界场景中进行有效训练，并创建了8,000个用于用户开放世界问题的问答对。最终结果表明，HAWK在视频描述生成和问答任务中均实现了最先进（SOTA）的性能，超越了现有的基线方法。我们的代码、数据集和演示将发布在<https://github.com/jqtangust/hawk。>
+
+```bibtex
+@inproceedings{atang2024hawk,
+  title = {Hawk: Learning to Understand Open-World Video Anomalies},
+  author = {Tang, Jiaqi and Lu, Hao and Wu, Ruizheng and Xu, Xiaogang and Ma, Ke and Fang, Cheng and Guo, Bin and Lu, Jiangbo and Chen, Qifeng and Chen, Ying-Cong},
+  year = {2024},
+  booktitle = {Neural Information Processing Systems (NeurIPS)}
+}
+```
+
 ### ■ Uncovering What Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly
 
 `CVPR'24` `BUPT` &nbsp;
@@ -119,28 +139,6 @@ https://air-discover.github.io/Hint-AD/
 }
 ```
 
-### ■ HAWK: Learning to Understand Open-World Video Anomalies
-
-`arXiv'24` `HKUST(GZ)` &nbsp;
-[arXiv](https://arxiv.org/pdf/2405.16886)
-[Github](https://github.com/jqtangust/hawk)
-
-<!-- ![主框架图](/imgs/archiver/5.anomaly/HAWK_fig1.png)  -->
-![主框架图](/imgs/archiver/5.anomaly/HAWK_fig2.png)
-
-视频异常检测（Video Anomaly Detection, VAD）系统可以自主监控并识别异常，从而减少对人工操作的需求及相关成本。然而，当前的VAD系统通常受限于对场景的表面语义理解和极少的用户交互。此外，现有数据集中的数据稀缺性也限制了这些系统在开放世界场景中的适用性。在本文中，我们介绍了HAWK，这是一种新颖的框架，利用交互式的大型视觉语言模型（VLM）来精确解释视频异常。HAWK 识别出异常视频和正常视频之间运动信息的差异，明确地将运动模态整合进来，以增强异常识别能力。为强化运动关注，HAWK 在运动和视频空间内构建了一个辅助一致性损失，指导视频分支聚焦于运动模态。此外，为了改善运动到语言的解释能力，我们在运动和其语言表示之间建立了明确的监督关系。此外，我们为超过8,000个异常视频添加了语言描述标签，使其能够在多样化的开放世界场景中进行有效训练，并创建了8,000个用于用户开放世界问题的问答对。最终结果表明，HAWK在视频描述生成和问答任务中均实现了最先进（SOTA）的性能，超越了现有的基线方法。我们的代码、数据集和演示将发布在<https://github.com/jqtangust/hawk。>
-
-```bibtex
-@misc{tang2024hawk,
-    title={Hawk: Learning to Understand Open-World Video Anomalies}, 
-    author={Jiaqi Tang and Hao Lu and Ruizheng Wu and Xiaogang Xu and Ke Ma and Cheng Fang and Bin Guo and Jiangbo Lu and Qifeng Chen and Ying-Cong Chen},
-    year={2024},
-    eprint={2405.16886},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV},
-    url={https://arxiv.org/abs/2405.16886}, 
-}
-```
 
 ### ■ Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM
 
