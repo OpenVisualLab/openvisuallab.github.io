@@ -12,10 +12,10 @@ dir:
 视频异常检测（Video Anomaly Detection, VAD）是指在视频序列中自动检测和定位异常事件或行为的任务。异常是指与正常模式显著不同的事件，如交通事故、犯罪行为等。VAD 在安全监控、智能交通系统和公共安全等领域中有广泛的应用。
 
 #### 1. 简单介绍（从异常行为检测到视频异常行为检测）
-- [1] 异常行为检测简介：[链接](https://mp.weixin.qq.com/s/UmT0DjFqRPsjv2m28ySvdw)
-- [2] 基于深度学习的异常行为检测介绍：[链接](https://mp.weixin.qq.com/s/Aghbz4m1eWFCNGgEy8q6Cg)
-- [3] 研究现状：[链接](https://mp.weixin.qq.com/s/MwpELRlC1cuDgqn4staAzA)
-- [4] 视频异常行为检测简介：[链接](https://mp.weixin.qq.com/s/i3Xw2-ivARnF7rBSFtxugw)
+- [1] 异常行为检测简介：[`link`](https://mp.weixin.qq.com/s/UmT0DjFqRPsjv2m28ySvdw)
+- [2] 基于深度学习的异常行为检测介绍：[`link`](https://mp.weixin.qq.com/s/Aghbz4m1eWFCNGgEy8q6Cg)
+- [3] 研究现状：[`link`](https://mp.weixin.qq.com/s/MwpELRlC1cuDgqn4staAzA)
+- [4] 视频异常行为检测简介：[`link`](https://mp.weixin.qq.com/s/i3Xw2-ivARnF7rBSFtxugw)
 
 #### 2. 论文综述
 - [1] 邬开俊等. 视频异常检测技术研究进展 [J]. 计算机科学与探索, 2022。
@@ -135,43 +135,43 @@ dir:
   - [11] Abnormal Event Detection and Localization via Adversarial Event Prediction (TNNLS 2023)。
 
 ### ■ Weakly Supervised VAD
-- [1] 👍 Real-world Anomaly Detection in Surveillance Videos (CVPR 2018)。[代码链接](http://crcv.ucf.edu/projects/real-world/)
+- [1] 👍 Real-world Anomaly Detection in Surveillance Videos (CVPR 2018)。[`code`](http://crcv.ucf.edu/projects/real-world/)
 - [2] Weakly Supervised Video Anomaly Detection via Center-Guided Discriminative Learning (ICME 2020)。
-- [3] Graph Convolutional Label Noise Cleaner: Train a Plug-And-Play Action Classifier for Anomaly Detection (CVPR 2019)。[代码链接](https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection)
-- [4] Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision (ECCV 2020)。[代码链接](https://roc-ng.github.io/XD-Violence/)
-- [5] CLAWS: Clustering Assisted Weakly Supervised Learning with Normalcy Suppression for Anomalous Event Detection (ECCV 2020)。[代码链接](https://github.com/xaggi/claws_eccv)
-- [6] Localizing Anomalies From Weakly-Labeled Videos (TIP 2021)。[代码链接](https://github.com/ktr-hubrt/WSAL)
-- [7] Learning Normal Dynamics in Videos with Meta Prototype Network (CVPR 2021)。[代码链接](https://github.com/ktr-hubrt/MPN)
+- [3] Graph Convolutional Label Noise Cleaner: Train a Plug-And-Play Action Classifier for Anomaly Detection (CVPR 2019)。[`code`](https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection)
+- [4] Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision (ECCV 2020)。[`code`](https://roc-ng.github.io/XD-Violence/)
+- [5] CLAWS: Clustering Assisted Weakly Supervised Learning with Normalcy Suppression for Anomalous Event Detection (ECCV 2020)。[`code`](https://github.com/xaggi/claws_eccv)
+- [6] Localizing Anomalies From Weakly-Labeled Videos (TIP 2021)。[`code`](https://github.com/ktr-hubrt/WSAL)
+- [7] Learning Normal Dynamics in Videos with Meta Prototype Network (CVPR 2021)。[`code`](https://github.com/ktr-hubrt/MPN)
 - [8] Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video (IJCAI 2021)。
-- [9] Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning (ICCV 2021)。[代码链接](https://github.com/tianyu0207/RTFM)
-- [10] MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection (CVPR 2021)。[代码链接](https://github.com/fjchange/MIST_VAD)
-- [11] Self-Training Multi-Sequence Learning with Transformer for Weakly Supervised Video Anomaly Detection (AAAI 2022)。[代码链接](https://github.com/LiShuo1001/MSL(only readme))
-- [12] Exploiting Completeness and Uncertainty of Pseudo Labels for Weakly Supervised Video Anomaly Detection (CVPR 2022)。[代码链接](https://github.com/ArielZc/CU-Net)
-- [13] Modality-Aware Contrastive Instance Learning with Self-Distillation for Weakly-Supervised Audio-Visual Violence Detection (ACM MM 2022)。[代码链接](https://github.com/JustinYuu/MACIL_SD)
+- [9] Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning (ICCV 2021)。[`code`](https://github.com/tianyu0207/RTFM)
+- [10] MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection (CVPR 2021)。[`code`](https://github.com/fjchange/MIST_VAD)
+- [11] Self-Training Multi-Sequence Learning with Transformer for Weakly Supervised Video Anomaly Detection (AAAI 2022)。[`code`](https://github.com/LiShuo1001/MSL)(only readme)
+- [12] Exploiting Completeness and Uncertainty of Pseudo Labels for Weakly Supervised Video Anomaly Detection (CVPR 2022)。[`code`](https://github.com/ArielZc/CU-Net)
+- [13] Modality-Aware Contrastive Instance Learning with Self-Distillation for Weakly-Supervised Audio-Visual Violence Detection (ACM MM 2022)。[`code`](https://github.com/JustinYuu/MACIL_SD)
 - [14] Decouple and Resolve: Transformer-Based Models for Online Anomaly Detection From Weakly Labeled Videos (TIFS 2023)。
-- [15] Dual Memory Units with Uncertainty Regulation for Weakly Supervised Video Anomaly Detection (AAAI 2023)。[代码链接](https://github.com/henrryzh1/UR-DMU)
-- [16] TEVAD: Improved video anomaly detection with captions (CVPR 2023)。[代码链接](https://github.com/coranholmes/TEVAD)
+- [15] Dual Memory Units with Uncertainty Regulation for Weakly Supervised Video Anomaly Detection (AAAI 2023)。[`code`](https://github.com/henrryzh1/UR-DMU)
+- [16] TEVAD: Improved video anomaly detection with captions (CVPR 2023)。[`code`](https://github.com/coranholmes/TEVAD)
 - [17] Look Around for Anomalies: Weakly-supervised Anomaly Detection via Context-Motion Relational Learning (CVPR 2023)。
-- [18] Unbiased Multiple Instance Learning for Weakly Supervised Video Anomaly Detection (CVPR 2023)。[代码链接](https://github.com/ktr-hubrt/UMIL)
-- [19] Hierarchical Semantic Contrast for Scene-aware Video Anomaly Detection (CVPR 2023)。[代码链接](https://github.com/shengyangsun/HSC_VAD)
+- [18] Unbiased Multiple Instance Learning for Weakly Supervised Video Anomaly Detection (CVPR 2023)。[`code`](https://github.com/ktr-hubrt/UMIL)
+- [19] Hierarchical Semantic Contrast for Scene-aware Video Anomaly Detection (CVPR 2023)。[`code`](https://github.com/shengyangsun/HSC_VAD)
 - [20] MGFN: Magnitude-Contrastive Glance-and-Focus Network for Weakly-Supervised Video Anomaly Detection (AAAI 2023)。
-- [21] Dynamic Erasing Network Based on Multi-Scale Temporal Features for Weakly Supervised Video Anomaly Detection (ArXiv 2023)。[代码链接](https://github.com/ArielZc/DE-Net)
+- [21] Dynamic Erasing Network Based on Multi-Scale Temporal Features for Weakly Supervised Video Anomaly Detection (ArXiv 2023)。[`code`](https://github.com/ArielZc/DE-Net)
 - [22] Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection (CVPR 2024)。
-- [23] Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection (CVPR 2024)。[代码链接](https://github.com/Junxi-Chen/PE-MIL)
+- [23] Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection (CVPR 2024)。[`code`](https://github.com/Junxi-Chen/PE-MIL)
 
 ### ■ Based on Large Model
-- [1] 👍 Harnessing Large Language Models for Training-free Video Anomaly Detection (CVPR 2024)。[代码链接](https://lucazanella.github.io/lavad/)
+- [1] 👍 Harnessing Large Language Models for Training-free Video Anomaly Detection (CVPR 2024)。[`code`](https://lucazanella.github.io/lavad/)
 - [2] Open-Vocabulary Video Anomaly Detection (CVPR 2024)。
-- [3] 👍 Uncovering What, Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly (CVPR 2024)。[代码链接](https://github.com/fesvhtr/CUVA)
-- [4] 👍 HAWK: Learning to Understand Open-World Video Anomalies (ArXiv 2024)。[代码链接](https://github.com/jqtangust/hawk)
-- [5] Video Anomaly Detection and Explanation via Large Language Models (ArXiv 2024)。[代码链接](https://github.com/ktr-hubrt/VAD-LLaMA)
-- [6] VANE-Bench: Video Anomaly Evaluation Benchmark for Conversational LMMs (ArXiv 2024)。[代码链接](https://hananshafi.github.io/vane-benchmark/)
-- [7] 👍 Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM (ArXiv 2024)。[代码链接](https://holmesvad.github.io/)
-- [8] VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection (AAAI 2023)。[代码链接](https://github.com/nwpu-zxr/VadCLIP)
+- [3] 👍 Uncovering What, Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly (CVPR 2024)。[`code`](https://github.com/fesvhtr/CUVA)
+- [4] 👍 HAWK: Learning to Understand Open-World Video Anomalies (NeurIPS 2024)。[`code`](https://github.com/jqtangust/hawk)
+- [5] Video Anomaly Detection and Explanation via Large Language Models (ArXiv 2024)。[`code`](https://github.com/ktr-hubrt/VAD-LLaMA)
+- [6] VANE-Bench: Video Anomaly Evaluation Benchmark for Conversational LMMs (ArXiv 2024)。[`code`](https://hananshafi.github.io/vane-benchmark/)
+- [7] 👍 Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM (ArXiv 2024)。[`code`](https://holmesvad.github.io/)
+- [8] VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection (AAAI 2023)。[`code`](https://github.com/nwpu-zxr/VadCLIP)
 
 ## ➢ 经典项目
 
-- ○ MNAD → [GitHub 链接](https://github.com/cvlab-yonsei/MNAD)，可作为视频异常检测的基准项目。
+- ○ MNAD → [`GitHub`](https://github.com/cvlab-yonsei/MNAD)，可作为视频异常检测的基准项目。
 
 ## ➢ 发现的新的有意思的研究方向 → Explainable Anomaly Detection (EAD) 可解释性异常检测
 
