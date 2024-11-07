@@ -14,7 +14,7 @@ A curated list of medical image segmentation for Active Learning. Keep updated.
 
 ## ➢ 论文汇总  
 
-[1] <https://github.com/GigaAI-research/General-World-Models-Survey> 该 repo 内有目前世界模型方向的优秀论文汇总，包括基本分类：视频生成、自动驾驶和自主代理。其中自动驾驶分成端到端、以及2D、3D神经模拟器方法。世界模型的文献、 开源code、 综述。
+[1] <[A Survey on Deep Active Learning:Recent Advances and New Frontiers](https://arxiv.org/pdf/2405.00334)> 
 
 [2] <https://github.com/HaoranZhuExplorer/World-Models-Autonomous-Driving-Latest-Survey>   该repo 内以‘时间’为顺序精选相关世界自动驾驶模型。且并持续更新，包括一些挑战、相关视频，包括机器人领域的世界模型使用（大多数为模仿学习强化学习方向）可参考借鉴。
 
