@@ -10,19 +10,23 @@ A curated list of medical image segmentation for Active Learning. Keep updated.
 
 ## 📌 Introduction
 
-## ✧ 基于主动学习的医学图像分割相关文献整理
+## ✧ 基于主动学习的相关文献整理
 
 ## ➢ 论文汇总  
+### 1.综述
 
-[1] <[A Survey on Deep Active Learning:Recent Advances and New Frontiers](https://arxiv.org/pdf/2405.00334)> 
+[1] <[TNNLS 2024][A Survey on Deep Active Learning:Recent Advances and New Frontiers](https://arxiv.org/pdf/2405.00334)> 
+本文定义了Deep Active Learning (DAL)任务，并总结了最具影响力的基线和广泛使用的数据集。从标注类型、查询策略、深度模型架构、学习范式和训练过程5个角度对DAL方法进行了系统的分类，并客观分析了它们的优缺点。全面总结了DAL在自然语言处理（NLP）、计算机视觉（CV）、数据挖掘（DM）等领域的主要应用；最后，在详细分析现有研究的基础上，讨论了面临的挑战和未来的发展方向。
 
-[2] <https://github.com/HaoranZhuExplorer/World-Models-Autonomous-Driving-Latest-Survey>   该repo 内以‘时间’为顺序精选相关世界自动驾驶模型。且并持续更新，包括一些挑战、相关视频，包括机器人领域的世界模型使用（大多数为模仿学习强化学习方向）可参考借鉴。
+### 2.基于不确定性的主动学习
 
-[3] [Awesome-World-Models-for-AD](https://github.com/zhanghm1995/awesome-world-models-for-AD?tab=readme-ov-file#Table-of-Content)
 
-[4] [World models paper list from Shanghai AI lab](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving/blob/main/papers.md#world-model--model-based-rl)
+### 3.基于代表性的主动学习
 
-[5] [Awesome-Papers-World-Models-Autonomous-Driving](https://github.com/chaytonmin/Awesome-Papers-World-Models-Autonomous-Driving).
+
+### 4.混合采样策略的主动学习
+
+
 
 ## ➢ 研究团队
 https://github.com/openmedlab
