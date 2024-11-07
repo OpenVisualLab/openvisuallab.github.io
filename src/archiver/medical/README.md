@@ -30,6 +30,7 @@ A curated list of medical image segmentation for Active Learning. Keep updated.
 - Dongyuan Li, Ying Zhang, Yusong Wang, Kotaro Funakoshi, and Manabu Okumura.
 
 
-
+## Reference
+[1]https://github.com/Clearloveyuan/awesome-active-learning-New/tree/main
 ## ➢ 研究团队
 https://github.com/openmedlab
