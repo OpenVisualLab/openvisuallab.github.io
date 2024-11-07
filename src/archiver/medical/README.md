@@ -22,8 +22,10 @@ A curated list of medical image segmentation for Active Learning. Keep updated.
 ### 2.CV
 
 
+### 3.ADA
 
-### 3.NLP
+
+### 4.NLP
 [1] <[JNLP 2024][Active Learning with Task Adaptation Pre-training for Speech Emotion Recognition](https://www.jstage.jst.go.jp/article/jnlp/31/3/31_825/_pdf)>
 - Li, Dongyuan, Ying Zhang, Yusong Wang, Kotaro Funakoshi, and Manabu Okumura.
 
