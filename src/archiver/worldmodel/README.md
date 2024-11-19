@@ -55,7 +55,7 @@ A curated list of world model for autonmous driving. Keep updated.
 ## 3.挑战赛 Workshops/Challenges
 
 * 2024-1X World Model Challenge  __`Challenges`__ [Link](https://github.com/1x-technologies/1xgpt)
-* 2024-ECCV Corner case Challenge  __`Challenges`__ [Link](https://github.com/1x-technologies/1xgpt)
+* 2024-ECCV Corner case Challenge  __`Challenges`__ [Link](https://coda-dataset.github.io/w-coda2024/track2/)
   
 * 2024-CVPR Workshop, Foundation Models for Autonomous Systems, Challenges, Track 4: Predictive World Model __`Challenges`__ [Link](https://opendrivelab.com/challenge2024/)
 
