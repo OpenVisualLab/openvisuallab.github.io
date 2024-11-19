@@ -129,7 +129,7 @@ A curated list of world model for autonmous driving. Keep updated.
   
 #### ■ 4D Pre-training for Autonomous Driving
 
-
+* (2024 Arxiv)-DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation [Paper](https://arxiv.org/pdf/2410.13571)
 * (2024 CVPR) ViDAR: Visual Point Cloud Forecasting enables Scalable Autonomous Driving [[Paper](https://arxiv.org/abs/2312.17655)][[Code](https://github.com/OpenDriveLab/ViDAR)] (Shanghai AI Lab)
 * 👍(2024 CVPR) DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving [[Paper](XXX)] (PKU)
   
@@ -152,6 +152,7 @@ A curated list of world model for autonmous driving. Keep updated.
 ### ■ 按时间顺序更新
 
 ## Papers
+* 2024-DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation [Paper](https://arxiv.org/pdf/2410.13571)
 * 2024-DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model [Paper](https://arxiv.org/abs/2410.10738)  __`Dataset`__
 * 2024-Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models [Paper](https://arxiv.org/abs/2409.16663)  __`Planning`__
 * 2024-OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving [Paper](https://www.arxiv.org/abs/2409.03272)
