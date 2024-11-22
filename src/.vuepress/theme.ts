@@ -32,6 +32,7 @@ export default hopeTheme({
   encrypt: {
     config: {
       "/demo/encrypt.html": ["1805+"],
+      "/browser/": ["1805"],
     },
   },
   blog: {
