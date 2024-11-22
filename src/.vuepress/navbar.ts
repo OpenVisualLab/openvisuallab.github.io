@@ -37,10 +37,10 @@ export default navbar([
     prefix: "browser/",
     children: [
       {
-        text: "survey",
-        prefix: "1.survey/",
+        text: "papers",
+        prefix: "",
         children: [
-          // { text: "Object Detection", icon: "expand", link: "README.md" },
+          { text: "epoch_one", icon: "expand", link: "epoch_one_24_1028_1202/README.md" },
         ],
       },
       {
@@ -54,8 +54,8 @@ export default navbar([
         text: "learning",
         prefix: "learning/",
         children: [
-          { text: "Road Anomaly", icon: "expand", link: "README.md" },
-          { text: "Video Anomaly", icon: "expand", link: "README.md" },
+          // { text: "Road Anomaly", icon: "expand", link: "README.md" },
+          // { text: "Video Anomaly", icon: "expand", link: "README.md" },
         ],
       },
     ],

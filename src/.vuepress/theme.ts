@@ -82,6 +82,7 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
+    
 
     // Install @waline/client before enabling it
     // Note: This is for testing ONLY!
@@ -97,7 +98,7 @@ export default hopeTheme({
     components: {
       components: ["Badge", "VPCard"],
     },
-
+    
     // These features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,
@@ -144,10 +145,10 @@ export default hopeTheme({
       // gfm: true,
 
       // install katex before enabling it
-      // katex: true,
+      katex: true,
 
       // install mathjax-full before enabling it
-      // mathjax: true,
+      mathjax: true,
 
       // install mermaid before enabling it
       // mermaid: true,

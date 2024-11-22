@@ -71,11 +71,6 @@ dir:
 `工作流` > [Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md) &emsp;
 `工作流` > [Linux](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md) &emsp;
 
-## 2K显示器HiDpi开启
-
-<https://github.com/waydabber/BetterDisplay>
-<https://github.com/xzhih/one-key-hidpi>
-
 ### 实用软件
 
 `IDE` > [VS Code](https://code.visualstudio.com/) &emsp;

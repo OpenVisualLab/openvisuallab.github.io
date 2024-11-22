@@ -4,4 +4,4 @@ src/.vuepress/.temp/
 src/.vuepress/dist/
 .DS_Store
 src/.obsidian/
-papers/
+# papers/
