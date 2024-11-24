@@ -32,7 +32,7 @@ DriveLM: Driving with Graph Visual Question Answering
 
 ## 问答简记
 
-$Q:$
+$Q:$ 不要讲的太细了，像图、表之类的，完全可以再下面**加句话总结**一下
 
 $A:$
 
