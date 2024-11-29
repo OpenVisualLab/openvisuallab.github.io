@@ -9,7 +9,7 @@ Vista: A Generalizable Driving World Model with High Fidelity and Versatile Cont
 
 [【论文本地连接】](/tinyweekly/papers/VISTA_NeurIPS24_world_model.pdf)  [【腾讯会议🔗】](https://meeting.tencent.com/crm/2GEgBYyldf) 
 [[openreview]](https://openreview.net/forum?id=Tw9nfNyOMy&referrer=%5Bthe%20profile%20of%20Li%20Chen%5D(%2Fprofile%3Fid%3D~Li_Chen15)) [[github🌟565]](https://github.com/OpenDriveLab/Vista)
-
+[【世界模型相关总结】]((https://github.com/OpenVisualLab/openvisuallab.github.io/tree/main/src/archiver/worldmodel)) 
 ## 收获总结
 
 1、通过对baseline的讲解，进一步熟悉世界模型，了解世界模型主要是使用了扩散模型或者Transformer架构。世界模型预测给定潜在行为的世界的合理未来。原则上，它不仅预测环境将如何随时间展开，而且还推断出潜在的物理动力学和代理行为。这样的属性对于表示学习、基于模型的强化学习以及模型预测控制都是有用的。
@@ -40,11 +40,13 @@ $A:$视频高保真度是指视频在还原或呈现内容时的真实性和准�
 
 ## 汇报时老师和同学们问题
 
+-------
+
 1、世界模型强调物理规律，这里怎么强调的
 2、这个是数据驱动的吗？物理能力还是依赖于baseline吗？
 3、针对的问题，方法套到其它方法是不是也行，但是和世界模型联系不大
-4、生成速度怎么样
--------
+4、生成速度怎么样?
+
 1、低光照增强的监督是什么？
 2、和世界模型的联系，正常是加到扩散里面，能不能加入真正的物理知识，比如人不能在天上飞，总结物理规律
 3、动机，晚上的数据量增大了，是否就解决这个问题了。不是！
