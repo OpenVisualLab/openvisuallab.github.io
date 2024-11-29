@@ -9,7 +9,7 @@ Vista: A Generalizable Driving World Model with High Fidelity and Versatile Cont
 
 [【论文本地连接】](/tinyweekly/papers/VISTA_NeurIPS24_world_model.pdf)  [【腾讯会议🔗】](https://meeting.tencent.com/crm/2GEgBYyldf) 
 [[openreview]](https://openreview.net/forum?id=Tw9nfNyOMy&referrer=%5Bthe%20profile%20of%20Li%20Chen%5D(%2Fprofile%3Fid%3D~Li_Chen15)) [[github🌟565]](https://github.com/OpenDriveLab/Vista)
-[【世界模型相关总结】]((https://github.com/OpenVisualLab/openvisuallab.github.io/tree/main/src/archiver/worldmodel)) 
+[【世界模型相关总结】](https://github.com/OpenVisualLab/openvisuallab.github.io/tree/main/src/archiver/worldmodel)
 ## 收获总结
 
 1、通过对baseline的讲解，进一步熟悉世界模型，了解世界模型主要是使用了扩散模型或者Transformer架构。世界模型预测给定潜在行为的世界的合理未来。原则上，它不仅预测环境将如何随时间展开，而且还推断出潜在的物理动力学和代理行为。这样的属性对于表示学习、基于模型的强化学习以及模型预测控制都是有用的。
