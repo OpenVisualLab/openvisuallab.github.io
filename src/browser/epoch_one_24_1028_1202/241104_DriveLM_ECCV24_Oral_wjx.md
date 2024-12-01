@@ -26,7 +26,7 @@ DriveLM: Driving with Graph Visual Question Answering
 [[paper]](https://eccv.ecva.net/virtual/2024/poster/130) [[github🌟870]](https://github.com/OpenDriveLab/DriveLM) [[project page]](https://opendrivelab.com/DriveLM/)
 [CVPR Workshop Challenge](https://opendrivelab.com/challenge2024/#driving_with_language)
 
-
+![alt text](/tinyweekly/figs/1104_DriveLM.png)
 
 
 分享摘要：</br>
