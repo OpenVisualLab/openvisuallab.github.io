@@ -12,9 +12,6 @@ DriveLM: Driving with Graph Visual Question Answering
 1、不要讲的太细，像图、表之类的，完全可以再下面**加句话总结**一下，因为做其他方向的，不了解这个指标是什么，只关心背后的思想，得把文章的思想讲出来，而不是说指标结果的好坏；【讲表的时候，主要是讲为什么要设计这个表？（目得），这个表验证了什么？】</br>
 2、数据集+图结构方式的创新；</br>
 3、讲PPT时，如果自己有问题要提问的话，最好总结一下，把自己的思考展示出来，然后哪里受阻了，再点出来；</br>
-4、逻辑关系的真假，或者说强度问题：有的问题加到模型中，反而降点；能否加入强逻辑关系？强逻辑关系是什么？怎么筛选这种强逻辑关系；</br>
-5、VLM模型给出了轨迹预测的路径点，怎么更精细化这样的路径点？
-
 
 
 ## 分享摘要
@@ -48,10 +45,23 @@ $A:$ 泛化性需要推理来解决，与人交互需要可解释性，模仿人
 
 ---
 
-$Q:$ 
+$Q:$ 逻辑关系的真假，或者说强度问题：有的问题加到模型中，反而降点；能否加入强逻辑关系？强逻辑关系是什么？怎么筛选这种强逻辑关系；</br>
 
 $A:$ 
 
+---
+$Q:$ VLM模型给出了轨迹预测的路径点，怎么更精细化这样的路径点？  
+
+$A:$ 
 
 ## 相关论文
+1、Xu, Z., Zhang, Y., Xie, E., Zhao, Z., Guo, Y., Wong, K.K., Li, Z., & Zhao, H. (2023). DriveGPT4: Interpretable End-to-End Autonomous Driving Via Large Language Model. IEEE Robotics and Automation Letters, 9, 8186-8193.  
+2、Shao, H., Hu, Y., Wang, L., Waslander, S.L., Liu, Y., & Li, H. (2023). LMDrive: Closed-Loop End-to-End Driving with Large Language Models. 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 15120-15130.  
+下面的是CVPR 2024 drive with language挑战赛的论文：  
+1、Enhancing Vision Language Models for Autonomous Driving  with Multi-view Multi-dataset Fusion  
+2、Driving with InternVL  
+3、BeVLM: GoT-based Integration of BEV and LLM for Driving with Language  
+
+
+
 
