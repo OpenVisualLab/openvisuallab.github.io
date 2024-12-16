@@ -1,12 +1,12 @@
 ---
-title: CLOVER (Qu Yunjin)
-order: 1
+title: DeeR-VLA (Yang Shedan)
+order: 7
 ---
 
 
-Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation
+DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution
 
-分享人: Qu Yunjin (屈云进) 
+分享人: Yang Shedan (杨社丹) 
 
 ## 收获总结
 
