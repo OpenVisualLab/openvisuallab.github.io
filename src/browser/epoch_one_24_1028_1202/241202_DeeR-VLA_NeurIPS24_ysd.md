@@ -51,9 +51,9 @@ $A:$不是的，它是将整个大模型的所有层均分为了6层，然后就
 
 ## 相关论文
 
-1、Xinghang Li, Minghuan Liu, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, Chilam Cheang,Ya Jing, Weinan Zhang, Huaping Liu, et al. Vision-language foundation models as effective robot imitators. ICLR, 2024. 2, 3, 4, 7, 8（DeeR-VLA的baseline论文）
-2、Oier Mees, Lukas Hermann, Erick Rosete-Beas, and Wolfram Burgard. Calvin: A benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks. IEEE Robotics and Automation Letters, 7(3):7327–7334, 2022. 2, 8（实验数据集论文CALVIN Long-Horizon Multi-Task Language Control benchmark(LH-MTLC)）
-3、Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi Chen, Krzysztof Choromanski, Tianli Ding, Danny Driess, Avinava Dubey, Chelsea Finn, et al. Rt-2: Vision-languageaction models transfer web knowledge to robotic control. CoRL, 2023. 2, 3（多模态大模型应用于端到端通用机器人模型VLA）
+1、Xinghang Li, Minghuan Liu, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, Chilam Cheang,Ya Jing, Weinan Zhang, Huaping Liu, et al. Vision-language foundation models as effective robot imitators. ICLR, 2024. 2, 3, 4, 7, 8（DeeR-VLA的baseline论文）</br>
+2、Oier Mees, Lukas Hermann, Erick Rosete-Beas, and Wolfram Burgard. Calvin: A benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks. IEEE Robotics and Automation Letters, 7(3):7327–7334, 2022. 2, 8（实验数据集论文CALVIN Long-Horizon Multi-Task Language Control benchmark(LH-MTLC)）</br>
+3、Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi Chen, Krzysztof Choromanski, Tianli Ding, Danny Driess, Avinava Dubey, Chelsea Finn, et al. Rt-2: Vision-languageaction models transfer web knowledge to robotic control. CoRL, 2023. 2, 3（多模态大模型应用于端到端通用机器人模型VLA）</br>
 
 
 
