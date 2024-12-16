@@ -31,24 +31,29 @@ DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Ro
 ## 问答简记
 
 
-$Q:$
+$Q:$论文中是如何定义任务的简单与困难的？怎么定义终止标准中的阈值的？
 
-$A:$
-
----
-
-$Q:$
-
-$A:$
+$A:$论文里面是没有定义简单与困难任务的，而是判断每一层网络提取的输入观测图像特征是否达到了终止标准，达到了终止标准，就从当前层提取退出，不再经过后面的层，通过这种方式来节省计算成本。退出的比较早的就可能会是相对来说简单一些的任务。终止标准是判断当前层特征预测得到的动作与上一层特征预测得到的动作间的距离是否小于阈值，小于阈值就退出。这个阈值是根据当前的实验设置的计算资源得到的，这些计算资源就包括平均FLOPs,峰值FLOPs，以及GPU内存。
 
 ---
 
-$Q:$
+$Q:$多模态和动态推理指的是什么意思？
 
-$A:$
+$A:$多模态指的是多模态大语言模型的输入是视觉和文本，就是多种模态的输入，然后模型里面是一个大模型的一个结构。动态推理指的是这篇论文的方法可以根据不同的输入去动态选择不同层的模型结构，有些输入可能需要经过模型的所有层，取最后一层输出特征，有些输入可能只需要经过前几层网络，取前几层的输出特征；这样就可以节省一些计算成本。
+
+
+---
+
+$Q:$网络里面的每一层都是一个大模型吗？
+
+$A:$不是的，它是将整个大模型的所有层均分为了6层，然后就设置了6个出口，在每个出口判断一次是否达到终止标准，达到终止标准就可以提前退出，不再经过后续的层。
 
 
 ## 相关论文
+
+1、Xinghang Li, Minghuan Liu, Hanbo Zhang, Cunjun Yu, Jie Xu, Hongtao Wu, Chilam Cheang,Ya Jing, Weinan Zhang, Huaping Liu, et al. Vision-language foundation models as effective robot imitators. ICLR, 2024. 2, 3, 4, 7, 8（DeeR-VLA的baseline论文）
+2、Oier Mees, Lukas Hermann, Erick Rosete-Beas, and Wolfram Burgard. Calvin: A benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks. IEEE Robotics and Automation Letters, 7(3):7327–7334, 2022. 2, 8（实验数据集论文CALVIN Long-Horizon Multi-Task Language Control benchmark(LH-MTLC)）
+3、Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Xi Chen, Krzysztof Choromanski, Tianli Ding, Danny Driess, Avinava Dubey, Chelsea Finn, et al. Rt-2: Vision-languageaction models transfer web knowledge to robotic control. CoRL, 2023. 2, 3（多模态大模型应用于端到端通用机器人模型VLA）
 
 
 
