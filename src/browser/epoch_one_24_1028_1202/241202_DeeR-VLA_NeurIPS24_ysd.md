@@ -19,7 +19,7 @@ DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Ro
 
 
 
-[腾讯会议链接]((https://meeting.tencent.com/crm/NxvOpB0Y32))
+[腾讯会议链接](https://meeting.tencent.com/crm/NxvOpB0Y32)
 [论文本地连接](/tinyweekly/papers/清华大学-SparseDrive.pdf) [[arXiv]](https://arxiv.org/abs/2411.02359) [[github🌟376]](https://github.com/yueyang130/DeeR-VLA))  
 
 ![alt text](/tinyweekly/figs/1028_clover.png)
