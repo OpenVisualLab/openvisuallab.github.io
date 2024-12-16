@@ -19,7 +19,7 @@ DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Ro
 
 
 
-[论文本地连接](/tinyweekly/papers/CLOVER_NeurIPS24_robotic_manipulation.pdf) [[openreview]](https://openreview.net/forum?id=1ptdkwZbMG&referrer=%5Bthe%20profile%20of%20Yi%20Ma%5D(%2Fprofile%3Fid%3D~Yi_Ma4)) [[github]](https://github.com/OpenDriveLab/CLOVER)  
+[论文本地连接]([https://arxiv.org/pdf/2411.02359](https://arxiv.org/pdf/2411.02359)). [[github]]([https://github.com/OpenDriveLab/CLOVER](https://github.com/yueyang130/DeeR-VLA?tab=readme-ov-file))  
 
 ![alt text](/tinyweekly/figs/1028_clover.png)
 
