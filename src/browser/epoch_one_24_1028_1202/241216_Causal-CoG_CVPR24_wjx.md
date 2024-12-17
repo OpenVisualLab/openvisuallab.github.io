@@ -29,6 +29,7 @@ Causal-CoG: A Causal-Effect Look at Context Generation for Boosting  Multi-modal
 本篇论文针对多模态大模型的幻觉以及训练成本问题；提出了Causal-CoG，因果上下文生成。上下文生成：即通过简单提示得到多个上下文，然后根据生成的上下文描述提示模型回答问题；Causal：从多个生成的候选者中选择最有帮助的上下文，考虑多个上下文对答案的影响，为不同上下文赋予不同的权重【先过滤，再聚合】；在10个多模态基准数据集上验证，均取得了改进。  
 
 论文通过提出Causal Context Generation（Causal-CoG）来解决多模态语言模型（MLMs）在视觉问题回答（VQA）任务中提供事实性和精确性回答的挑战。Causal-CoG包含以下几个关键步骤：
+
     1、上下文生成（Context Generation）：  
                通过简单的提示（例如“describe this image”）引导MLM生成关于图像的文本描述，即上下文（Context）。  
                
