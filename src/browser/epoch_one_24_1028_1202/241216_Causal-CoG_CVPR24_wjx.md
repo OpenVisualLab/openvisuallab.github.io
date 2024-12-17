@@ -9,8 +9,10 @@ Causal-CoG: A Causal-Effect Look at Context Generation for Boosting  Multi-modal
 
 ## 收获总结
 
-1、这篇论文的核心就是：n个上下文生成->计算JSD->因果过滤->保留有因果关系的上下文->top-k聚合->Weighted Majority Vote（加权多数投票）->对答案影响最大的上下文被挑选出来；
+1、这篇论文的核心就是：n个上下文生成->计算JSD->因果过滤->保留有因果关系的上下文->top-k聚合->Weighted Majority Vote（加权多数投票）->对答案影响最大的上下文被挑选出来；  
+
 2、把筛选上下文的思路引入到自动驾驶中，来衡量上下文对结果的影响；【想做进一步的改进，衡量完了之后如何把候选上下文中正确的属性汇总成一个新的上下文信息？】  
+
 
 
 
