@@ -9,9 +9,9 @@ Causal-CoG: A Causal-Effect Look at Context Generation for Boosting  Multi-modal
 
 ## 收获总结
 
-1、
-2、
-3、
+1、  
+2、  
+3、  
 
 
 ## 分享摘要
@@ -22,7 +22,7 @@ Causal-CoG: A Causal-Effect Look at Context Generation for Boosting  Multi-modal
 
 [[paper]](https://papers.cool/arxiv/2312.06685) [[github🌟12]](https://github.com/zhaoshitian/Causal-CoG) 
 
-![alt text](/tinyweekly/figs/1104_DriveLM.png)
+![alt text](/tinyweekly/figs/1216_Causal_COG.png)
 
 
 分享摘要：</br>
