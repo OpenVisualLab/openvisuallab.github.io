@@ -20,8 +20,7 @@ Causal-CoG: A Causal-Effect Look at Context Generation for Boosting  Multi-modal
 
 [腾讯会议链接](https://meeting.tencent.com/crm/N1DLrJE817) [论文本地连接](/tinyweekly/papers/DriveLM_ECCV24_driving_with_language.pdf) 
 
-[[paper]](https://eccv.ecva.net/virtual/2024/poster/130) [[github🌟870]](https://github.com/OpenDriveLab/DriveLM) [[project page]](https://opendrivelab.com/DriveLM/)
-[CVPR Workshop Challenge](https://opendrivelab.com/challenge2024/#driving_with_language)
+[[paper]](https://eccv.ecva.net/virtual/2024/poster/130) [[github🌟12]](https://github.com/zhaoshitian/Causal-CoG) 
 
 ![alt text](/tinyweekly/figs/1104_DriveLM.png)
 
