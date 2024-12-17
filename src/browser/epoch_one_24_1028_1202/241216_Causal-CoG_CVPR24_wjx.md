@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/392b00ff-999f-43ca-94df-91ff16bec084)---
+---
 title: Causal-CoG (Wang Jingxin)
 order: 8
 ---
