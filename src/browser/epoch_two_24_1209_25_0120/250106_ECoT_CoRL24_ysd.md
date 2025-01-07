@@ -1,4 +1,3 @@
-
 ---
 title: ECoT (Yang Shedan)
 order: 11
