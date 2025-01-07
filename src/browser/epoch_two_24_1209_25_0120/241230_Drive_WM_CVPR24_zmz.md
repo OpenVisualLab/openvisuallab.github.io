@@ -12,7 +12,9 @@
 Title: Drive-WM
 Order: 9
 分享人：张明珠
----
+-
+
+![alt text](/tinyweekly/figs/1230_DriveWM.png)
 
 ## 分享摘要
 关键词：	世界模型；端到端；多视角；
