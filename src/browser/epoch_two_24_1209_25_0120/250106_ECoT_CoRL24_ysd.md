@@ -54,7 +54,7 @@ $Q:$ 实验是在真实环境上做的，你自己的工作是在仿真环境上
 $A:$ 这篇论文的实验是在真实环境上做的，但是不一定在仿真环境结果会好，因为这个方法是要通过数据训练的，在仿真环境验证性能的话就是用仿真数据进行训练，在真实环境验证性能的话就是用真实环境的数据进行训练，还是看模型的训练结果，不一定在哪个环境下结果会更好。而我自己现在做的工作是training-free的方法，不经过训练，直接推理。这种情况下，可能就是仿真环境下结果会更好一些，因为环境是理想状态，物体的位置这些信息都是真值；而真实环境的话可能会很多因素的影响，比如光线、摄像机性能等，还要采用一些目标检测方法，这个结果也会带来一定影响。
 
 ## 相关论文
-1、M. Kim, K. Pertsch, S. Karamcheti, T. Xiao, A. Balakrishna, S. Nair, R. Rafailov, E. Foster,P. Sanketi, Q. Vuong, T. Kollar, B. Burchfiel, R. Tedrake, D. Sadigh, S. Levine, P. Liang, andC. Finn. Openvla: An open-source vision-language-action model. 2024. (OpenVLA论文)
+1、M. Kim, K. Pertsch, S. Karamcheti, T. Xiao, A. Balakrishna, S. Nair, R. Rafailov, E. Foster,P. Sanketi, Q. Vuong, T. Kollar, B. Burchfiel, R. Tedrake, D. Sadigh, S. Levine, P. Liang, andC. Finn. Openvla: An open-source vision-language-action model. 2024. (OpenVLA论文)</br>
 2、J. Wei, X. Wang, D. Schuurmans, M. Bosma, B. Ichter, F. Xia, E. Chi, Q. Le, and D. Zhou.Chain-of-thought prompting elicits reasoning in large language models, 2023.（CoT论文）
 
 
