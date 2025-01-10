@@ -103,6 +103,27 @@ https://air-discover.github.io/Hint-AD/
 }
 ```
 
+### ■ MCANet: Multimodal Caption Aware Training-Free Video Anomaly Detection via Large Language Model
+
+`ICPR'24` `National Institute of Technology, Calicut, India (印度卡利卡特国立理工学院)` &nbsp;
+
+[Paper](https://link.springer.com/chapter/10.1007/978-3-031-78125-4_25)
+
+![主框架图](/imgs/archiver/5.anomaly/MCANet_fig.png)
+
+在视频异常检测（Video Anomaly Detection, VAD）方面，现有方法通常需要耗费大量精力进行数据收集和模型重新训练，这使得这些方法代价高昂且领域特定。本文提出了一种称为多模态字幕感知网络（Multimodal Caption Aware Network, MCANet）的方法，引入了一种无需领域知识的新范式来识别视频序列中的异常。这种无需训练的VAD方法通过利用现成的视觉-语言模型（Vision-Language Model, VLM）、**音频-语言模型（Audio-Language Model, ALM）** 和大语言模型（Large Language Model, LLM），动态生成并分析视频帧的文本描述。MCANet包含四个主要模块：第一个模块利用图像文本相似性清理由图像字幕生成模型产生的噪声字幕；第二个模块应用音频文本相似性优化音频字幕生成模型的噪声字幕；第三个模块通过LLM整合时间序列中的场景动态；最后，第四个模块基于视频文本相似性聚合语义相似帧的得分，以提升结果。为验证该方法的有效性，我们在两个大规模基准数据集（UCF-Crime 和 XD-Violence）上进行了实验。实验结果表明，MCANet在无需任何训练或数据收集的情况下，优于现有的无监督和单类方法。
+
+```bibtex
+@inproceedings{dev2025mcanet,
+  title={MCANet: Multimodal Caption Aware Training-Free Video Anomaly Detection via Large Language Model},
+  author={Dev, Prabhu Prasad and Hazari, Raju and Das, Pranesh},
+  booktitle={International Conference on Pattern Recognition},
+  pages={362--379},
+  year={2025},
+  organization={Springer}
+}
+```
+
 ## ➢ 还没中的
 
 ### ■ VAD-LLaMA: Video Anomaly Detection and Explanation via Large Language Models
