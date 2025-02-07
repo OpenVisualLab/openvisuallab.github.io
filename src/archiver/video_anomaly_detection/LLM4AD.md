@@ -126,6 +126,16 @@ https://air-discover.github.io/Hint-AD/
 
 ## ➢ 还没中的
 
+### ■ VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models
+
+`arXiv'24` `The University of Iowa` `Weakly Surpervised` &nbsp;
+[Github](https://vera-framework.github.io/)
+[arXiv](https://arxiv.org/pdf/2412.01095)
+
+![主框架图](/imgs/archiver/5.anomaly/VERA_fig4.png)
+
+视觉-语言模型（VLM）的快速发展为视频异常检测（VAD）确立了一种新的范式：利用VLM同时检测异常并为决策提供可理解的解释。现有的相关工作通常假设，VAD所需的复杂推理能力超出了预训练VLM的能力范围。因此，这些方法要么在推理过程中引入专门的推理模块，要么依赖指令微调数据集，通过额外的训练使VLM适配VAD。然而，这些策略往往会带来显著的计算成本或数据标注开销。为了解决解释性VAD中的这些挑战，我们提出了一种名为VERA的语言化学习框架，该框架能够在不修改模型参数的情况下让VLM执行VAD。具体而言，VERA自动将VAD所需的复杂推理分解为对捕捉不同异常模式的简单、聚焦的指导性问题的反思。它将这些反思性问题视为可学习的参数，并通过学习者和优化器VLM之间基于粗略标注训练数据的语言交互进行优化。在推理过程中，VERA将学习到的问题嵌入模型提示中，以引导VLM生成片段级异常评分，然后通过融合场景和时间上下文细化为帧级评分。在具有挑战性的基准测试中，实验结果表明，VERA学习到的问题具有很强的适应性，显著提升了VLM在VAD任务中的检测性能和解释能力。
+
 ### ■ VAD-LLaMA: Video Anomaly Detection and Explanation via Large Language Models
 
 `11 Jan 2024` `Singapore Management University` `Weakly Surpervised` &nbsp;
