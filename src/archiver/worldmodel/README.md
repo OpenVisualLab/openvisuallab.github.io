@@ -339,41 +339,8 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2021-Learning to drive from a world on rails __`CVPR 2021 Oral`__; __`RL`__ [Paper](https://arxiv.org/pdf/2105.00636.pdf), [Project Page](https://dotchen.github.io/world_on_rails/), [Code](https://github.com/dotchen/WorldOnRails)
 * 2019-Model-Predictive Policy Learning with Uncertainty Regularization for Driving in Dense Traffic __`ICLR 2019`__; __`Future Prediction`__; __`from Yann Lecun's Group`__ [Paper](https://github.com/Atcold/pytorch-PPUU?tab=readme-ov-file), [Code](https://github.com/Atcold/pytorch-PPUU)
   
-## Other General World Model Papers
 
-* 2024-Hierarchical World Models as Visual Whole-Body Humanoid Controllers [Paper](https://arxiv.org/pdf/2405.18418)
-* 2024-Pandora: Towards General World Model with Natural Language Actions and Video States [Paper](https://world-model.maitrix.org/assets/pandora.pdf)
-* 2024-Efficient World Models with Time-Aware and Context-Augmented Tokenization __`ICML 2024`__
-* 2024-3D-VLA: A 3D Vision-Language-Action Generative World Model __`ICML 2024`__ [Paper](https://arxiv.org/pdf/2403.09631.pdf)
-* 2024-Newton from Archetype AI __`website`__ [Link](https://www.archetypeai.io/blog/introducing-archetype-ai---understand-the-real-world-in-real-time)
-* 2024-MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators __`arxiv`__ [Paper](https://arxiv.org/pdf/2404.05014.pdf), [Code](https://github.com/PKU-YuanGroup/MagicTime)
-* 2024-IWM: Learning and Leveraging World Models in Visual Representation Learning  __`arxiv`__, __`from Yann Lecun's Group`__ [Paper](https://arxiv.org/pdf/2403.00504.pdf)
-* 2024-Video as the New Language for Real-World Decision Making __`arxiv`__, __`Deepmind`__ [Paper](https://arxiv.org/abs/2402.17139)
-* 2024-Genie: Generative Interactive Environments __`Deepmind`__ [Paper](https://arxiv.org/abs/2402.15391v1), [Website](https://sites.google.com/view/genie-2024/home)
-* 2024-Sora __`OpenAI`__, __`Generative AI`__ [Link](https://openai.com/sora), [Technical Report](https://openai.com/research/video-generation-models-as-world-simulators)
-* 2024-LWM: World Model on Million-Length Video And Language With RingAttention __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/abs/2402.08268), [Code](https://github.com/LargeWorldModel/LWM)
-* 2024-WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/abs/2401.09985)
-* 2024-Video prediction models as rewards for reinforcement learning __`NeurIPS 2024`__ [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/d9042abf40782fbce28901c1c9c0e8d8-Paper-Conference.pdf), [Code](https://github.com/Alescontrela/viper_rl)
-* 2024-V-JEPA: Revisiting Feature Prediction for Learning Visual Representations from Video __`from Yann Lecun's Group`__ [Paper](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/), [Code](https://github.com/facebookresearch/jepa)
-* 2023-Facing Off World Model Backbones: RNNs, Transformers, and S4 __`NeurIPS 2023`__ [Paper](https://arxiv.org/abs/2307.02064)
-* 2023-I-JEPA: Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture __`CVPR 2023`__; __`from Yann Lecun's Group`__ [Paper](https://arxiv.org/abs/2301.08243), [Code](https://github.com/facebookresearch/ijepa)
-* 2023-Temporally Consistent Transformers for Video Generation __`ICML 2023`__ [Paper](https://arxiv.org/abs/2210.02396), [Code](https://github.com/wilson1yan/teco)
-* 2023-Learning to Model the World with Language __`arxiv`__ [Paper](https://arxiv.org/abs/2308.01399), [Code](https://github.com/jlin816/dynalang)
-* 2023-Transformers are sample-efficient world models __`ICLR 2023`__;__`RL`__ [Paper](https://arxiv.org/pdf/2209.00588.pdf), [Code](https://github.com/eloialonso/iris)
-* 2023-Gradient-based Planning with World Models __`arxiv`__; __`from Yann Lecun's Group`__; __`Planning`__; [Paper](https://arxiv.org/pdf/2312.17227)
-* 2023-World Models via Policy-Guided Trajectory Diffusion __`arxiv`__; __`RL`__; [Paper](https://arxiv.org/pdf/2312.08533.pdf)
-* 2023-DreamerV3: Mastering diverse domains through world models __`arxiv`__;__`RL`__; [Paper](https://arxiv.org/abs/2301.04104), [Code](https://github.com/danijar/dreamerv3)
-* 2022-Daydreamer: World models for physical robot learning __`CoRL 2022`__; __`Robotics`__ [Paper](https://arxiv.org/abs/2206.14176), [Code](https://github.com/danijar/daydreamer)
-* 2022-Masked World Models for Visual Control __`CoRL 2022`__; __`Robotics`__ [Paper](https://proceedings.mlr.press/v205/seo23a.html), [Code](https://github.com/younggyoseo/MWM)
-* 2022-A Path Towards Autonomous Machine Intelligence __`openreview`__; __`from Yann Lecun's Group`__; __`General Roadmap for World Models`__; [Paper](https://openreview.net/forum?id=BZ5a1r-kVsf); [Slides1](https://leshouches2022.github.io/SLIDES/compressed-yann-1.pdf), [Slides2](https://leshouches2022.github.io/SLIDES/lecun-20220720-leshouches-02.pdf), [Slides3](https://leshouches2022.github.io/SLIDES/lecun-20220720-leshouches-03.pdf); [Videos](https://www.youtube.com/playlist?list=PLEIq5bchE3R3Yl5taXdYA04a9kH9yvyGm)
-* 2021-LEXA:Discovering and Achieving Goals via World Models __`NeurIPS 2021`__; [Paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/cc4af25fa9d2d5c953496579b75f6f6c-Abstract.html), [Website & Code](https://orybkin.github.io/lexa/)
-* 2021-DreamerV2: Mastering Atari with Discrete World Models __`ICLR 2021`__; __`RL`__; __`from Google & Deepmind`__ [Paper](https://arxiv.org/pdf/2010.02193.pdf), [Code](https://github.com/danijar/dreamerv2)
-* 2020-Dreamer: Dream to Control: Learning Behaviors by Latent Imagination __`ICLR 2020`__ [Paper](https://arxiv.org/abs/1912.01603), [Code](https://github.com/google-research/dreamer)
-* 2019-Learning Latent Dynamics for Planning from Pixels __`ICML 2019`__ [Paper](https://proceedings.mlr.press/v97/hafner19a/hafner19a.pdf), [Code](https://github.com/google-research/planet)
-* 2018-Model-Based Planning with Discrete and Continuous Actions __`arxiv`__; __`RL, Planning`__; __`from Yann Lecun's Group`__;  [Paper](https://arxiv.org/pdf/1705.07177)
-* 2018-Recurrent world models facilitate policy evolution __`NeurIPS 2018`__; [Paper](https://papers.nips.cc/paper_files/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf), [Code](https://github.com/hardmaru/WorldModelsExperiments)
-
-## ■  ➢ 发现的新的有意思的研究方向-->
+■  ➢ 发现的新的有意思的研究方向-->
 
 生成式的World Model可以被用来当作一种仿真工具来生成仿真数据，特别是极为少见的Corner Case的数据。特别是基于Text to image 的可控条件生成Corner Case，可以进行数据增广，解决真实数据且标注少的现存问题。
 然而World Model更有潜力的应用方向是World Model可能会成为像GPT一样的自动驾驶领域的基础模型，而其他自动驾驶具体任务都会围绕这个基础模型进行研发构建。
